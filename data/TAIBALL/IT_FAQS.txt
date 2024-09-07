@@ -1,0 +1,1561 @@
+<div class="prose"><h1>Frequently Asked Questions</h1></div>
+<div class="prose">
+<span id="d.en.1097838"></span>
+<p>At the Service Desk we get a number of calls and tickets regarding various requests and issues, to help save you time we have compiled this Frequently Asked Questions page. Click on a topic to navigate to the question you need answering.</p>
+<ul id="top">
+<li><a href="#accounts" title="Use alt + click to follow the link">Accounts (New Starters, Leaving Staff, QMPlus, Visitor)</a></li>
+<li><a href="#agresso" title="Use alt + click to follow the link">AgressoCan I access other </a></li>
+<li><a href="#anti-virus" title="Use alt + click to follow the link">Anti-Virus and Spyware</a></li>
+<li><a href="#byod" title="Use alt + click to follow the link">Bring Your Own Device (BYOD)</a></li>
+<li><a href="#datarestore" title="Use alt + click to follow the link">Data Restoration</a></li>
+<li><a href="#drives" title="Use alt + click to follow the link">Drive Access (Shared Departmental Drive Access/Folder Access)</a></li>
+<li><a href="#eduroam" title="Use alt + click to follow the link">Eduroam</a></li>
+<li><a href="#email" title="Use alt + click to follow the link">Email</a></li>
+<li><a href="#landesk" title="Use alt + click to follow the link">LANDesk (Raising a ticket/Self Service Portal)</a></li>
+<li><a href="#mail" title="Use alt + click to follow the link">Mailing Lists / Shared Mailboxes</a></li>
+<li><a href="#metacompliance" title="Use alt + click to follow the link">MetaCompliance</a></li>
+<li><a href="#Microsoft365">Microsoft 365</a></li>
+<li><a href="#MFA">Multi-Factor Authentication (MFA)</a></li>
+<li><a href="#myhr" title="Use alt + click to follow the link">MyHR</a></li>
+<li><a href="#Onedrive">OneDrive</a></li>
+<li><a href="#onlineexamsupport" title="Use alt + click to follow the link">Online Exam Support</a></li>
+<li>Outlook Calendar entries set to Private</li>
+<li><a href="#password" title="Use alt + click to follow the link">Password</a></li>
+<li><a href="#Planner">Planner</a></li>
+<li><a href="#print" title="Use alt + click to follow the link">Printing</a></li>
+<li><a href="#requesting">Requesting a Device</a></li>
+<li><a href="/its/media/its/service-desk/Staff---Attaching-cloud-files-as-links-in-Outlook.pdf">Staff Attaching cloud files as links [PDF 427KB]</a></li>
+<li><a href="#SharePointOneDrive">SharePoint</a></li>
+<li><a href="#software" title="Use alt + click to follow the link">Software</a></li>
+<li><a href="#stolen" title="Use alt + click to follow the link">Stolen/Lost Devices</a></li>
+<li><a href="#microsoftteams">Teams</a></li>
+<li><a href="#Teams Live Events">Teams Live Events</a></li>
+<li><a href="#timetable" title="Use alt + click to follow the link">Timetable</a></li>
+<li><a href="#Taking your monitor or other peripheral home">Taking your monitor or other peripheral home</a></li>
+<li><a href="#vdi" title="Use alt + click to follow the link">VDI/Direct Access</a></li>
+</ul>
+<h2 id="accounts">Students</h2>
+<div id="accordion">
+<h3>What IT equipment will I need for my studies?</h3>
+<div>
+<p>To access all the support and learning technologies that are available we recommend that you have the following equipment:</p>
+<ul>
+<li>A laptop or desktop PC with a camera, microphone, internet access. The computer you use does not usually need to be a high specification, but should comfortably run IOS or Windows10. If your computer was new within the last 4-5 years, it should enable you to access the primary applications applications such as the Microsoft Office Suite - <a href="https://www.youtube.com/watch?v=58FIAelSoO4">see videoI get the error message</a></li>
+<li>A laptop is recommended as laptops are better enabled for completion of assignments and engagement in the digital learning environments.  Laptops also enable learning from home, on campus and during travel to and from campus.</li>
+<li>A reasonably fast and reliable internet connection is required to participate in online tutorials and lectures.  If your internet connection at home is not very good consider whether you can use an internet connection somewhere else (for example a workplace, library or friend’s house dependent on the Government’s latest guidance) when you need to study online or join an online tutorial. If you are moving into new accommodation don’t forget to ask about the availability of wifi.</li>
+<li>A headset or earphones with a microphone. To more fully participate in online tutorials, you’ll need a headset with a microphone. You might be able to use a built-in microphone if your computer has one, but you’ll be able to hear, and be heard, more clearly with a headset.</li>
+</ul>
+</div>
+<h3>Can I use a tablet?</h3>
+<p><span>We recommend using a laptop or PC computer for all university work and assignments to ensure you have the best access to resources. </span></p>
+<h3>Can I use my phone?</h3>
+<p>We recommend using a laptop or PC computer for all university work and assignments to ensure you have the best access to resources. </p>
+<h3>What can I do if I don't have access to a laptop or PC computer?</h3>
+<p>Queen Mary offers a hardship fund for exceptional or unforseen costs. You may be eligible for help from the financial assistance fund. Information can be found<span> </span><a href="http://www.arcs.qmul.ac.uk/students/finances/bursaries-grants-scholarships/financial-assistance-fund/" rel="noopener" target="_blank">here</a>.</p>
+<h3>Can I access Microsoft software with my Queen Mary account?</h3>
+<div>
+<p>Yes, you have free access to Microsoft Office Suite and you can follow this link to step-by-step video guide<span> </span><a href="https://www.youtube.com/watch?v=58FIAelSoO4">here.</a></p>
+</div>
+<h3>Can I access a Queen Mary desktop from home, to use specialised software?</h3>
+<div>
+<p>Yes, you can, <a href="https://www.its.qmul.ac.uk/services/students/appsanywhere/" rel="noopener" target="_blank">please follow this link</a><span> </span>for further information.</p>
+</div>
+<h3>How will you support students without access to IT facilities?</h3>
+<div>
+<p>We have existing arrangements for Laptop Loans available through Queen Mary Library (service re-opening dates TBC)</p>
+<p>We are re-configuring our campuses – including our lecture theatres and other learning spaces, our libraries, and our study and social spaces – to make sure that we can all maintain social distancing and the hygiene standards necessary to mitigate the risk of coronavirus. A number of study desks in different locations on the Mile End Campus are now available to book <a href="http://my.qmul.ac.uk/returning-to-campus/" rel="noopener" target="_blank">here</a></p>
+</div>
+<h3>Can I access other pieces of software, such as Prism or Origin Pro?</h3>
+<div>
+<p>A list of a free or discounted software can be found<span> </span><a href="/its/support/self-help/software/free-and-discounted-software/">here.</a></p>
+<p>You can also access a large number of specialist software using our AppsAnywhere service, more information<span> </span><a href="/its/our-services/services-for-students/apps-anywhere/">here.</a></p>
+</div>
+<h3>What should I do if I do not have a reliable internet connection?</h3>
+<div>
+<p>The University will not provide financial support for students to enhance their broadband package. There is information here on how to get the best out of existing internet connectivity<span> </span><a href="http://connected.qmul.ac.uk/news/items/remote-working---broadband-tips.html" rel="noopener" target="_blank">here</a>.</p>
+</div>
+<h3>What should I do if I have a disability or diagnosis that affects my working from home?</h3>
+<div>
+<p>You can contact <a href="http://www.dds.qmul.ac.uk/" rel="noopener" target="_blank">Disability and Dyslexia Service (DDS) services</a> and they will work with you to determine the support</p>
+</div>
+<h3>What should I do if I do not have a reliable laptop, PC or other equipment?</h3>
+<div>
+<p>Please refer to <a href="/its/media/its/documents/governance/policies/IT-Equipment-WFH-policy-v1.0.pdf">IT Equipment WFH policy [PDF 867KB]</a> for more information.</p>
+</div>
+<h3>Are socially distanced study spaces available?</h3>
+<div>
+<p><span>Yes, they are and you can book them online<span> </span><a href="https://qmul.libcal.com/" rel="noopener" target="_blank">here</a>.</span></p>
+</div>
+<h3>Is captioning enabled for the lecture’s recordings?</h3>
+<p>We have purchased a licence for captioning service for Qreview. Various captioning tools are also available in Microsoft365 applications – you can find more information<span> </span><a href="https://www.microsoft.com/en-us/accessibility/office?activetab=pivot_1:primaryr2">here</a>.</p>
+<h3>What is the e-learning unit?</h3>
+<div>
+<p>The E-Learning Unit provides educational support and direction for e-learning applications and engages with staff and students across all levels of the institution. We can help you with support, training or advice on anything regarding the use of technology in teaching and learning – simple or complex, individual or faculty-wide, technical or pedagogic. Full information on the services ELU provides, along with case studies and guides can be found<span> </span><a href="https://elearning.qmul.ac.uk/" rel="noopener" target="_blank">here</a>.</p>
+</div>
+<h3>If I change my display name, where will it be updated?</h3>
+<div>
+<ul>
+<li>Display name in Office 365 Email system and Global Address List (outlook search, etc)</li>
+<li>MS Teams</li>
+<li>Zoom</li>
+<li>Salesforce CRM</li>
+<li>Overleaf ( research data migration service)</li>
+<li>MySafety (occupational health)</li>
+<li>Power BI</li>
+<li>Miro (if given access)</li>
+<li>QM CV Builder</li>
+<li>Qmotion</li>
+<li>QM PebblePad</li>
+<li>E-clio</li>
+<li>AppsAnywhere</li>
+<li>Managed PCs in the Labs</li>
+<li>Ivanti</li>
+</ul>
+</div>
+<h3>Need more help?</h3>
+<div>
+<p>I<span>f you are unable to find the answer you are looking for, </span><a href="https://qmul.bomgarcloud.com/" rel="noopener" target="_blank">please chat to us</a><span>.<span> </span></span><span>We welcome any suggestions you may have.</span></p>
+</div>
+<div>
+<p> </p>
+</div>
+</div>
+<h2 id="accounts">Staff</h2>
+<div id="accordion">
+<h3>Can I access Microsoft software with my Queen Mary account?</h3>
+<div>
+<p>Yes, you have free access to Microsoft Office Suite and you can follow this link to step-by-step video guide<span> </span><a href="https://www.youtube.com/watch?v=58FIAelSoO4">here.</a></p>
+</div>
+<h3>Can I access other pieces of software, such as Prism or Origin Pro?</h3>
+<div>
+<p>A list of a free or discounted software can be found<span> </span><a href="/its/help--support/for-staff/">here</a>.</p>
+<p>You can also access a large number of specialist software packages using our AppsAnywhere service, more information<span> </span><a href="https://www.its.qmul.ac.uk/services/students/appsanywhere/" rel="noopener" target="_blank">here</a>.</p>
+</div>
+<h3>What should I do if I do not have a reliable internet connection?</h3>
+<div>
+<p>The University will not provide financial support for staff to enhance their broadband package. There is information <a href="http://connected.qmul.ac.uk/news/items/remote-working---broadband-tips.html" rel="noopener" target="_blank">here</a><span> </span>on how to get the best out of existing internet connectivity.</p>
+</div>
+<h3>What should I do if I have a disability or diagnosis that affects my working from home?</h3>
+<div>
+<p>You can contact <a href="http://www.dds.qmul.ac.uk/" rel="noopener" target="_blank">Disability and Dyslexia Service (DDS) services</a> and they will work with you to determine the support required.</p>
+</div>
+<h3>Can you access a Queen Mary desktop from home, to use specialised software?</h3>
+<div>
+<p>Yes, you can do that and more working from anywhere in the world. See our pages for <a href="https://www.its.qmul.ac.uk/support/digital-workplace/" rel="noopener" target="_blank">Digital Workplace</a><span> </span>with detailed information on the services we offer and how to access them.</p>
+</div>
+<h3>What should I do if I do not have a reliable laptop, PC or other equipment?</h3>
+<div>
+<p>Please refer to<span> </span><a href="/its/media/its/documents/governance/policies/IT-Equipment-WFH-policy-v1.0.pdf">IT Equipment WFH policy [PDF 867KB]</a> for more information.</p>
+</div>
+<h3>Do we still have access to Skype for Business?</h3>
+<div>
+<p>Yes, we do, and you can still download it on your home computer. However, Skype for Business will be discontinued by Microsoft and MS Teams will take over by the end of 2021.</p>
+</div>
+<h3>Can we use Google Hangouts?</h3>
+<div>
+<p>Ideally you will use Queen Mary’s technology services. This is to ensure Data Protection and Cybersecurity standards are adhered to at all times when processing personal data.</p>
+</div>
+<h3>Should we use Zoom or Microsoft Teams?</h3>
+<div>
+<p><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0">We have institutional<span> </span></span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SpellingErrorV2 SCXW239845962 BCX0">licence</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SpellingErrorV2 SCXW239845962 BCX0">s</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0"><span> </span>for MS Teams</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0"><span> </span>and Zoom</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0">,<span> </span></span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0">with their<span> </span></span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0">general use supported by ITS<span> </span></span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0">&amp; the ELU (alongside<span> </span></span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0">Blackboard Collaborate</span></span></span><span class="TrackChangeTextInsertion TrackedChange SCXW239845962 BCX0"><span class="TextRun SCXW239845962 BCX0" data-contrast="none"><span class="NormalTextRun SCXW239845962 BCX0">)</span></span></span></p>
+</div>
+<h3>Is there any software I can use to make drawings, demonstrate code or another visual (such as equations) while I am teaching?</h3>
+<div>
+<p>Yes, there are many systems available that you can use for demonstration, including OneNote, Microsoft Whiteboard and<span> </span><a href="https://sketch.io/sketchpad/" rel="noopener" target="_blank">Virtual Sketchpad</a>.</p>
+</div>
+<h3>Will QM provide a tablet or a printer?</h3>
+<div>
+<p>Please refer to <a href="/its/media/its/documents/governance/policies/IT-Equipment-WFH-policy-v1.0.pdf">IT Equipment WFH policy [PDF 867KB]</a> for more information.</p>
+</div>
+<h3>What training is available for distanced teaching and learning?</h3>
+<div>
+<p>There is plenty of training available, please see<span> </span><a href="https://www.its.qmul.ac.uk/blendedteaching/forstaff/available-training/" rel="noopener" target="_blank">this link</a>.</p>
+</div>
+<h3>How do I edit videos on Qreview?</h3>
+<div>
+<p><span>Qreview and other training resources are available<span> </span><a href="https://elearning.qmul.ac.uk/learning-applications/" rel="noopener" target="_blank">here</a>.</span></p>
+</div>
+<h3>Is captioning enabled for the lecture recordings?</h3>
+<p>We have purchased a licence for captioning service for Qreview. Various captioning tools are also available in Microsoft365 applications – you can find more information<span> </span><a href="https://www.microsoft.com/en-us/accessibility/office?activetab=pivot_1%3aprimaryr2" rel="noopener" target="_blank">here</a>.</p>
+<h3>What is the e-learning unit?</h3>
+<div>
+<p><span>The E-Learning Unit provides educational support and direction for e-learning applications and engages with staff and students across all levels of the institution. We can help you with support, training or advice on anything regarding the use of technology in teaching and learning – simple or complex, individual or faculty-wide, technical or pedagogic. Full information on the services ELU provides, along with case studies and guides can be found<span> </span><a href="https://elearning.qmul.ac.uk/" rel="noopener" target="_blank">here</a>.</span></p>
+</div>
+<h3>Can I access the :J or :G drive from home?</h3>
+<div>
+<p>Yes you can. If you are using one of the Queen Mary’s laptops you will have direct access to G: and J: drive, otherwise you can access<span> </span><a href="https://www.its.qmul.ac.uk/support/self-help/working-from-home/" rel="noopener" target="_blank">them via VDI</a>.</p>
+</div>
+</div>
+<p> </p>
+<p> </p>
+<h2 id="accounts">Account</h2>
+<div id="accordion">
+<h3>When do I get an IT account?</h3>
+<div>
+<p>As a student you will get an IT account once your offer has been accepted. Your QMUL username and password should be emailed to the personal email address you provided on your application.</p>
+<p>As a staff member you will receive your IT Account once your contract has been accepted. Your Line Manager, or the Centre Administrator, will <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> with the Service Desk and the details will be issued to them.</p>
+</div>
+<h3>What can I access with my account?</h3>
+<div>
+<p>You can use any of the computers across all campuses*, printers, Wi-Fi, email and the generic web based resources, such as the library website.</p>
+<p>*There are some machines that are designated for staff or student use.</p>
+</div>
+<h3>I am moving to another department, will I need a new IT account? (STAFF ONLY)</h3>
+<div>
+<p>No, please do not request a new account. We highly recommend you contact IT Services and inform us if you have changed departments so we can update this on our system. The request can be made by yourself or by your new line manager.</p>
+</div>
+<h3>Can I access QMPlus if I have a visitors account?</h3>
+<div>
+<p>At Queen Mary University of London we issue various accounts. If you only require access to QMPlus your host would have requested a QMPlus affiliate account for you. However, if you have been issued an account to use our machines, QMPlus will not be accessible to you.</p>
+</div>
+<h3>I have just left QMUL, can I still access my emails?</h3>
+<div>
+<p>We strongly advice those that have left QMUL to archive, copy or forward important emails to a personal email address as accounts after departure may close without prior warning.</p>
+</div>
+<h3>I’m no longer a QMUL student but I need to access my transcript from MySIS, can you help?</h3>
+<div>You do not need to log onto MySIS for a copy of your transcript, you can call the Administration team and they shall be able to assist. You can contact them in the following ways:
+<table border="1" cellpadding="0" cellspacing="0" style="width: 501px;">
+<tbody>
+<tr>
+<td style="width: 105px;">Postal Address:</td>
+<td style="width: 396px;">
+<p><strong>Queen Mary University of London<br/></strong>Mile End Road<br/>London<br/>E1 4NS</p>
+<p><strong>Barts and The London School of Medicine and Dentistry<br/></strong>Garrod Building<br/>Turner Street, Whitechapel<br/>London<br/>E1 2AD</p>
+</td>
+</tr>
+<tr>
+<td style="height: 12px; width: 105px;">Telephone:</td>
+<td style="height: 12px; width: 396px;">+44 (0)20 7882 5511</td>
+</tr>
+<tr>
+<td style="height: 30px; width: 105px;">Freephone:</td>
+<td style="height: 30px; width: 396px;">0800 376 1800 (UK callers only)</td>
+</tr>
+<tr>
+<td style="width: 105px;">Email:</td>
+<td style="width: 396px;">admissions@qmul.ac.uk</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>What type of accounts are available to those attending QMUL?</h3>
+<div>
+<p>Accounts can be requested for visitors and new members of staff by Line managers/Centre Administrators.</p>
+<p>Below is the information you need to help determine which account will best suit your requirements.</p>
+<table border="1" cellpadding="0" cellspacing="0" style="width: 655px;">
+<tbody>
+<tr>
+<td style="width: 141px;"><strong>Type of Account</strong></td>
+<td style="width: 512px;"><strong>Access to?</strong></td>
+</tr>
+<tr>
+<td style="width: 141px;">Central</td>
+<td style="width: 512px;">PC's, printing, eduroam, online recourses such as QMPlus and the library website.</td>
+</tr>
+<tr>
+<td style="width: 141px;">Visitors</td>
+<td style="width: 512px;">PC only</td>
+</tr>
+<tr>
+<td style="width: 141px;">QMPlus Affiliate</td>
+<td style="width: 512px;">QMPlus only. Ideal for external users.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>I have a new member of staff starting soon, what details do you need?</h3>
+<div>
+<p>You will need to <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> and provide us with the following details:</p>
+<ul>
+<li>Name</li>
+<li>Surname (as it will appear in HR)</li>
+<li>Department</li>
+<li>Do they require an email address?</li>
+<li>Do they already have an account with us? (If the employee had an account with us then this will save you time)</li>
+<li>Do they need access to any shared drives? If so, provide a colleague who we can mirror the same access to</li>
+<li>Do they need access to any shared mailboxes?</li>
+<li>When will they be starting? This will help us know if we should send the PRM passcode with the account details.</li>
+</ul>
+</div>
+<h3>What are the benefits of getting a visitor account?</h3>
+<div>
+<ul>
+<li>The account will let the visitor log onto our machines without the worry of accessing shared drives</li>
+<li>You can determine the duration of the account expiry date. This can be between months to a year</li>
+<li>They can use any machine across all campuses</li>
+<li>Visitors will not need to worry about resetting the password given to them</li>
+</ul>
+</div>
+<h3>I want to request a visitor account, what information do you need?</h3>
+<div>
+<p>When requesting a visitor account, please provide the following when <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raising a ticket</a>:</p>
+<ul>
+<li>Visitors name and surname</li>
+<li>Department</li>
+<li>Start and end date</li>
+<li>If you want the visitor to have printing credit, please provide us with your departmental Budget Code</li>
+</ul>
+<p><em>NOTE: Visitors will not be able to access the eduroam network with these accounts. Creating a QM-Guest account will be the best option for you and your guest. Instructions can be found <a href="/its/support/self-help/networks/wifi/" title="Use alt + click to follow the link">here</a>.</em></p>
+</div>
+<h3>A staff member is leaving, what do I need to do?</h3>
+<div>
+<p>As a Line Manager, or Centre Administrator, please <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> with the following details when a member of your team leaves.</p>
+<ul>
+<li>Username:</li>
+<li>Email:</li>
+<li>Access to any shared drives</li>
+<li>Access to any share mailboxes</li>
+<li>Did they have access to QMPlus?</li>
+<li>Did they have access to Novell?</li>
+<li>Did they have access to Thinlinc or VDI?</li>
+<li>Did they have a managed laptop with a BitLocker code?</li>
+<li>Date of departure:</li>
+</ul>
+<p><em>NOTE: You can raise a ticket before the staff member leaves and we can disable the account to the time and date you specify. ITS run periodic reports to identify accounts of staff who have left and take proactive action to disable these accounts. Any account that requires reactivation will require a ticket to be raised with the appropriate information provided.</em></p>
+</div>
+<h3>What do I do if I want to keep my account open?</h3>
+<div>
+<p>Your Line Manger/Centre Administrator will need to <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> and let us know how long your account will need to be kept active for.</p>
+</div>
+<h3>Will my account expire?</h3>
+<div>
+<p>Yes, once IT Services have been notified that you have left QMUL your account will be deactivated with no prior warning.</p>
+<ul>
+<li>If you are a contractor it will expire at the end of your contract. If your contract has been extended please inform the IT Service Desk by <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raising a ticket</a>.</li>
+<li>A student account will expire at the end of the course and will be disabled within 6 months. This too will be disabled without prior warning.</li>
+<li>If you are a permanent member of staff your account will not expire. However, your password will need to be reset every 6 months to allow you access to QMUL resources.</li>
+</ul>
+<p><span><em>NOTE: QMUL will not keep accounts open indefinitely due to the Data Protection Act.</em></span></p>
+</div>
+<h3>How do I update my name on QMUL systems if it has changed since I enrolled?</h3>
+<div>
+<p>For students, all requests must come through one of the following people:</p>
+<p>Taught Students - <a href="mailto:studentenquiry@qmul.ac.uk">studentenquiry@qmul.ac.uk</a></p>
+<p>Research Students - <a href="mailto:researchdegrees@qmul.ac.uk">researchdegrees@qmul.ac.uk</a></p>
+<p>MBBS Students - <a href="mailto:smd-student-enquiries@qmul.ac.uk">smd-student-enquiries@qmul.ac.uk</a></p>
+<p> </p>
+<p>Staff members must contact Human Resources department.</p>
+<p><strong>Further guidance on name changes can be found <a href="https://arcs.qmul.ac.uk/students/mysis-record/personal-details/student_names/" rel="noopener" target="_blank">here</a></strong></p>
+<p> </p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="agresso">Agresso</h2>
+<div id="accordion2">
+<h3>I need access to Agresso, how do I go about getting an account?</h3>
+<div>
+<p>You will need to complete a New User Form and have it authorised by one of the following authorisers:</p>
+<ul>
+<li>For Schools and Institute - Director of Administration or Deputy / Institute Manager or Deputy </li>
+<li>For Professional Services - Director of Department or Deputy </li>
+</ul>
+<p>They must sign the form and <a href="http://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> with the IT Service Desk with the form attached.</p>
+<p>The form can be found here: <a href="http://qm-web.finance.qmul.ac.uk/agresso/forms/index.html" title="Use alt + click to follow the link">http://qm-web.finance.qmul.ac.uk/agresso/forms/index.html</a></p>
+</div>
+<h3>Is it possible to get training for Agresso?</h3>
+<div>
+<p>Yes, you can <a href="http://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a>  with the IT Service Desk and they will forward this onto the Finance Systems Team.</p>
+</div>
+<h3>I have forgotten my password/locked myself out, how do I get it reset?</h3>
+<div>
+<p>You can call the Service Desk on 0207 882 8888 and ask for a password reset. They will email you the new password and the instructions on how to reset it. Alternatively, you can <a href="http://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> and the Service Desk will contact you once your password has been reset.</p>
+</div>
+<h3>Can I access Agresso off campus?</h3>
+<div>
+<p>Yes, you can access Agresso using VDI or Direct Access. If you do not have access to VDI, your Line Manager/Centre Administrator will need to <a href="http://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a>  for your access.</p>
+</div>
+<h3>Where can I find other support material for Agresso?</h3>
+<div>
+<p>Support guides can be found on the <a href="http://qm-web.finance.qmul.ac.uk/agresso/training-notes-and-videos/">Agresso website</a></p>
+</div>
+<h3>What is the link for Agresso Web?</h3>
+<div>
+<p>The link for Agresso Web is: <a href="https://agresso-web.qmul.ac.uk/BusinessWorld/">https://agresso-web.qmul.ac.uk/BusinessWorld/</a></p>
+</div>
+<h3>Why do I receive the open PO report?</h3>
+<div>
+<p>The open purchase order report is sent out to remind you to goods receipt orders that have not yet been goods receipted, or to close orders that have been paid but where there is still an amount left over. If you are satisfied that there will be no more invoices for the amount left over, please request for that purchase order to be closed. If you have fully goods receipted the order, it will still show in the report until Accounts Payable pays the invoice the order relates to.</p>
+<p>If you have any concerns about why the invoice has not been paid then please contact the Accounts Payable team and they can advise further.</p>
+</div>
+<h3>Can I delete a Requisition?</h3>
+<div>
+<p>In order for a requisition to be deleted, the following steps need to be followed:</p>
+<ul>
+<ul>
+<li>The requisition needs to be rejected by the approver</li>
+<li>Once it has been rejected, you will receive a "Requisition Amend" task in Agresso</li>
+<li>Click on this task and it will take you into the requisition that has been rejected</li>
+<li>You will then need to change the “STATUS” field (near the top left of the screen) from Active to Closed and click then save. </li>
+</ul>
+</ul>
+<p>This will delete the requisition.</p>
+</div>
+<h3>I received the message ‘Invalid Supplier’ when I saved my requisition. Why am I getting this message?</h3>
+<div>
+<p>Finance have re-categorised some existing suppliers as ‘Staff’, preventing further use for requisitions. You will get the message ‘Invalid Supplier’. Please email Finance directly on finance-ap-manager@qmul.ac.uk for further information. Please provide Finance with the Supplier ID/name, inform Finance that you are getting message ‘Invalid Supplier’ and that the Agresso team have referred you. Finance will offer you further guidance.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="anti-virus">Anti-Virus and Spyware</h2>
+<div id="accordion3">
+<h3>I think my laptop has a virus, what can I use to get rid of it?</h3>
+<div>We do not endorse companies or their anti-virus/malware software.</div>
+<h3>Can IT remove viruses on my machine?</h3>
+<div>
+<p><strong>Staff</strong> - If your machine is owned by QMUL, IT Services will take the necessary details and assist in removing any viruses or malware you may have.</p>
+<p><strong>Student</strong> - We cannot take responsibility for fixing personal devices; we can only provide advice on what actions you may take. For further information please refer to the</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="byod">Bring Your Own Device (BYOD)</h2>
+<div id="accordion4">
+<h3>What does BYOD mean?</h3>
+<div>
+<p>Bring Your Own Device refers to users using their own device (which is not owned or provided to you by QMUL) to access and store QMUL information, whether at the place of work or remotely, typically connecting to the QMUL’s Wireless Service. ITS will make reasonable actions to support users in connecting or using QMUL Systems, but may be unable to support those BYOD where basic good practice has not been followed*. This Policy is applicable to anyone using a non-QMUL-owned device for example laptops, PDA, smart phones, tablets and similar technologies, commonly known as a BYOD, to access QMUL data and/or IT services, this includes any visitors to the university.</p>
+<p>*Further details can be found on our .</p>
+</div>
+<h3>Can you help fix my laptop; I use it to do assignments and university work?</h3>
+<div>
+<p><strong>Student</strong> - No, we cannot fix personal laptops if they are broken or damaged. We can only advise you take your device to specialised repair shops.</p>
+<p><em>TIP: Always check reviews and rating by other customers before handing your device over to a company.</em></p>
+<p><strong>Staff</strong> - If your device has been purchased by QMUL, we can assist in investigating and possibly repairing any damage. A ticket will be raised and sent to the local Support team for further investigation/collection.</p>
+</div>
+<h3>Can you retrieve documents from a broken USB; it has my assignments on it?</h3>
+<div>
+<p>No, we do not have the software or the capabilities to repair damaged or broken USB/memory sticks. You can take your device to a repair shop and check if it is possible to fix.</p>
+<p><em>NOTE: We advise you always remove, or eject, your USB/memory stick safely – DO NOT PULL IT OUT</em></p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="datarestore">Data restoration</h2>
+<div id="accordion5">
+<h3>I need to recover documents, can you help?</h3>
+<div>
+<p>If you have accidentally deleted a file from the G or J drive, your documents or files can be retrieved after 24 hours.</p>
+<p>You should be able to right-click on the folder which has been removed and select: <strong>Restore previous versions</strong>. A new window will pop up and display the files which have been removed. Once you have found the folder, select <strong>Restore…</strong></p>
+</div>
+<h3>I want to know what comes under the Queen Mary University Storage and Recovery Policy, where can I find this?</h3>
+<div>
+<p>You can find the necessary details .</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="drives">Drives</h2>
+<div id="accordion6">
+<h3>How can I gain access to the Shared drive?</h3>
+<div>
+<p>Many departments have a shared drive, also referred to as the J drive, if you are new member of staff your Line Manager will need to <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> stating the name of the shared drive/folder and the type of access you require.</p>
+</div>
+<h3>I’m working in two departments and need access to both departmental shared drives, how will this work?</h3>
+<div>
+<p>The shared folder owner, usually the Line Manager/Centre Administrator, will need to give permission for you to be able to access the folder. Once this has been done, <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> including the confirmation and stating which will be your primary and secondary shared drive.</p>
+</div>
+<h3>I’m a line manager and need a new starter to have access to the shared drive, what details do you need?</h3>
+<div>
+<p>You will need to <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> and give us the name of the shared drive and a colleague’s username we can use to mirror the access to.</p>
+</div>
+<h3>I can’t see a folder in the shared drive, how do I get access to it?</h3>
+<div>
+<p>You will need to get your Line Manager or the Departmental Administrator to <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> with IT Services letting us know which folder you require access to. We will not grant access to folders without authorisation.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="eduroam">Eduroam</h2>
+<div id="accordion7">
+<h3>What is eduroam?</h3>
+<div>
+<p>At Queen Mary University of London we use a service provided by Janet to allow our users to connect to the College network. Janet is the UK provider for eduroam. “<em>eduroam (education roaming) is the secure, world-wide roaming access service developed for the international research and education community</em>.” (Source: https://www.eduroam.org/). We use the service to allow students, researchers and staff to obtain wireless internet connectivity across our campuses and when visiting other institutes on any of your devices*.</p>
+<p><em>*with the exception of some gaming devices</em></p>
+</div>
+<h3>How do I connect to eduroam?</h3>
+<div>
+<p>You can find our how-to guides .</p>
+</div>
+<h3>How do I connect to eduroam at other institutes?</h3>
+<div>
+<p>If you have already connected to eduroam at QMUL then it should work when you are visiting any other university.</p>
+</div>
+<h3>Where is the eduroam available?</h3>
+<div>
+<p>eduroam is available almost anywhere on campus.</p>
+<p><em>NOTE: You may find that there are some places with a stronger connection than others.</em></p>
+</div>
+<h3>Is there an eduroam wired service?</h3>
+<div>
+<p>Students living on campus have the facility of wired connection available in their dorms. When using this service, you will need to remember to ensure Wi-Fi is switched off before using the wired connection service.</p>
+</div>
+<h3>I can't see the QM-Guest or QM-Events whilst in the Dentistry building?</h3>
+<div>
+<p>The wifi service in the main Dentistry building at Whitechapel is provided by the NHS Trust – not QMUL.</p>
+<p>The Trust broadcast the Eduroam network but do not offer QM-Guest or QM-Events.</p>
+<p>As a result, we cannot provide visitors/guests with wifi in that building – unless they are registered to Eduroam in their own institutions.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="email">Email</h2>
+<div id="accordion8">
+<h3>Is there a limit on the size of messages I send?</h3>
+<div>
+<p>Yes, messages sent or received through Office 365 are limited in size to 25MB. This includes any attached files such as images or documents.</p>
+</div>
+<h3>Is there a limit on the number of emails I can send in a day?</h3>
+<div>
+<p>Yes, but there is a limit of 500 recipients per email and you can send up to a total of 1,500 recipients in a day. If you need to send mass mailings over these limits, please use the QMUL mailing list service.</p>
+</div>
+<h3>How long do emails stay in the deleted items?</h3>
+<div>
+<p>Emails remain in the deleted items folder for 30 days.</p>
+</div>
+<h3>Can I retrieve deleted items?</h3>
+<div>
+<p>Yes, you can retrieve your deleted items. You can find instructions on how to .</p>
+</div>
+<h3>Can you set up an Automatic Reply/Out of office for a shared mailbox?</h3>
+<div>
+<p>Yes, you can set up an automatic reply/out of office for a shared mailbox. Instructions can be found .</p>
+</div>
+<h3>Can I check if email addresses have been blocked from sending me emails?</h3>
+<div>
+<p>You can check and amend the block list by following the instructions <a href="http://www.its.qmul.ac.uk/support/self-help/email_setup/junk/172508.html" title="Use alt + click to follow the link">here</a>.</p>
+</div>
+<h3>What is Clutter?</h3>
+<div>
+<p>Clutter has been introduced to help filter the low priority emails from your inbox so you can scan your mailbox for important messages easily.</p>
+<p>Quick facts can be found .</p>
+</div>
+<h3>I turned Clutter on but nothing happened?</h3>
+<div>
+<p><em>"Clutter is still learning so that it can provide strong predictions and will only begin taking actions once it has a learned your work style. You can expedite Clutter’s learning by moving messages into the Clutter folder to help train it. The more you move, the faster it will learn."</em></p>
+<p>Source: <a href="https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/" title="Use alt + click to follow the link">https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/</a></p>
+</div>
+<h3>Can I disable Clutter after I have turned it on?</h3>
+<div>Instructions on how to do this can be found <a href="http://www.its.qmul.ac.uk/support/self-help/email_setup/junk/172652.html" title="Use alt + click to follow the link">here</a>.</div>
+<h3>How to train Clutter that items are or aren’t Clutter?</h3>
+<div>
+<p><em>"The easiest way to train Clutter is by simply completing your work. You can explicitly train Clutter by moving items to or from the Clutter folder. In OWA, Clutter-specific actions are available as a right-click command to mark items as Clutter or not Clutter."</em></p>
+<p>Source: <a href="https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/" title="Use alt + click to follow the link">https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/</a></p>
+</div>
+<h3>Are clutter items automatically deleted after a specified time period?</h3>
+<div>
+<p><em>"The Clutter folder does not apply a specific clean-up action. The default policy for a new folder is applied to the Clutter folder at time of creation, and can later be changed. Users in OWA are provided Clutter specific quick clean-up tools to expedite the deletion of the Clutter messages."</em></p>
+<p>Source: <a href="https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/" title="Use alt + click to follow the link">https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/</a></p>
+</div>
+<h3>Does Clutter work in Outlook desktop clients?</h3>
+<div>
+<p><em>"Yes. Once turned on by the user, the Clutter folder is available in Outlook and is automatically added in your folder Favourites. In Outlook, users interact with Clutter by moving items to/from the Clutter folder, which trains Clutter for your inbox. You must use the OWA options menu to turn Clutter on or off."</em></p>
+<p>Source: <a href="https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/" title="Use alt + click to follow the link">https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/</a></p>
+</div>
+<h3>Can I delegate access to my mailbox or calendar to a colleague?</h3>
+<div>
+<p>Yes you can, for instructions on how to do this please use the link for further information: <a href="http://www.its.qmul.ac.uk/support/self-help/email_setup/howto/index.html" title="Use alt + click to follow the link">http://www.its.qmul.ac.uk/support/self-help/email_setup/howto/index.html</a></p>
+</div>
+<h3>Can I request access to my colleague’s mailbox or calendar?</h3>
+<div>
+<p>No, the owner of the mailbox will need to <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> authorising your access to their mailbox/calendar.</p>
+<p><em>NOTE: The usernames and email addresses will need to be included in the ticket so we can action this request.</em></p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="landesk">LANDesk (Self Service Portal)</h2>
+<div id="accordion9">
+<h3>How can I raise a ticket?</h3>
+<div>
+<p>You can log onto the <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">Self Service Portal</a> and raise tickets using the buttons on the left hand panel.</p>
+<p>We have included on our website to help you get around LANDesk.</p>
+</div>
+<h3>How can I chase a ticket?</h3>
+<div>
+<p>You can call the Service Desk on 0207 882 8888 or log onto the <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">Self Service Portal</a> and <strong>Add a note</strong>. Make sure the <strong>Notify Analyst</strong> box is checked.</p>
+</div>
+<h3>What is the escalation procedure for a ticket?</h3>
+<div>
+<p>You can call the Service Desk on 0207 882 8888 and ask for a ticket update. There are a couple of factors which need to be considered before ticket escalation. To find out more please refer to our <a href="http://www.its.qmul.ac.uk/support/helpdesk/escalation/" title="Use alt + click to follow the link">Escalation</a> page</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="mail">Mailing list / Shared mailbox</h2>
+<div id="accordion10">
+<h3>What are the differences between a mailing list and a shared mailbox?</h3>
+<div>
+<p>A mailing list, often referred to with the shorthand "list," is a means of sending electronic mail to many different addresses at once. The sender does not need to know the addresses of everyone on the list in order to ensure that the mail gets to all of them.</p>
+<p>A shared mailbox can be used to allow multiple users read and write access to the same mailbox. Unlike mailing lists, shared mailboxes appear on the Global Address Book.</p>
+</div>
+<h3>I’m not getting the "All Staff" emails, what do I do?</h3>
+<div>
+<p>If you are a new member of staff and are missing the “All staff” emails you will need to contact your Directory Administrator. You will need to ask them to add you onto the Staff Directory, once this has happened you will start receiving the “All Staff” emails.</p>
+<p>You can find your Directory Administrator on the Staff Directory, there is a link at the bottom of the page to view the respective department’s Directory Administrator.</p>
+</div>
+<h3>Can anyone apply for a mailing list?</h3>
+<div>
+<p>New mailing lists can only be requested by members of the college. To apply for a mailing list please visit: <a href="http://www.lists.qmul.ac.uk/sympa/create_list_request" title="Use alt + click to follow the link">http://www.lists.qmul.ac.uk/sympa/create_list_request</a>.</p>
+<p>You must be logged in with your college email account. If you are, then you should see a link in the main navigation menu near the top right of the page titled "Apply for a List." Clicking this will take you to the new list request form. </p>
+<p><em>NOTE: If you need any help, click the "Help" link at the top of the page next to "Request a New Mailing List."</em></p>
+</div>
+<h3>How long will it take to activate a mailing list?</h3>
+<div>
+<p>The SLA to get a mailing list activated is 3 business days.</p>
+</div>
+<h3>I am going to be leaving, can I change the list owner?</h3>
+<div>
+<p>You can <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> with the Service Desk and the Core Infrastructure Team can do this for you. Please remember to list the full name(s) and email address(es) of the intended list owner(s).</p>
+<p><em>NOTE: For further details regarding mailing lists please visit: <a href="http://www.lists.qmul.ac.uk/sympa/help" title="Use alt + click to follow the link">http://www.lists.qmul.ac.uk/sympa/help</a></em></p>
+</div>
+<h3>Can I access my shared mailbox from a phone or tablet?</h3>
+<div>
+<p>Microsoft have confirmed:</p>
+<p>- Phone &amp; tablet native platform Exchange clients <strong>cannot</strong> support shared mailboxes;<br/>- Outlook for Mobile <strong>cannot</strong> support shared mailboxes;<br/>- OWA for Devices (iOS, Android) <strong>can</strong> support shared mailboxes</p>
+<p>The recommended method is to use a OWA via a web browser.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="metacompliance">MetaCompliance</h2>
+<div id="accordion11">
+<h3>Introduction</h3>
+<div>
+<p>As we move towards new ways of working, and to improve on our regulatory compliance posture, Queen Mary introduced these training packs to bolster and improve awareness on issues around Cyber Security and GDPR. In the main, the instructions are easy to follow, but these FAQs represent an additional resource in the event you need a little more help completing or gaining the benefits of completing the course(s).</p>
+</div>
+<h3>How do I start a course?</h3>
+<div>
+<p>You will receive an email notification – one for each course. This email contains a safe link to our Queen Mary content on the MetaCompliance platform. Clicking on the link takes you to your home page where you can access the course in the ‘My Learning’ section. This happens for each course.</p>
+</div>
+<h3>How long are the courses?</h3>
+<div>
+<p>Each training programme takes up roughly 30 minutes of your day, with a few minutes added for educative interactions built into each course. Whilst we encourage you to go through each course from start to finish in one seating, we do understand that priority tasks may intervene. As such, each course can be paused allowing you to complete it when the interruption is over.</p>
+</div>
+<h3>Is there a deadline for completing the course(s)?</h3>
+<div>
+<p>Yes there is. You should complete the training 30 days after receipts of the course email notification. If you do not complete by this date, you will receive email reminders from your schools, departments and institutes to remind you to complete the training.</p>
+</div>
+<h3>The video display screen is too small for me. What should I do?</h3>
+<div>
+<p>Our partners have designed each clip to launch in a pop-up style window – much as you would get if using YouTube. You can always enlarge the window to full screen mode by hovering your mouse over the video screen to reveal the full screen symbol . Clicking this symbol will enlarge the screen and give you a better experience on your device.</p>
+</div>
+<h3>Do I get notified when I have completed the course?</h3>
+<div>
+<p>Each clip must run down the clock to register as complete. Some clips have a little time lag of a few seconds between the last action and the end of the clock. We recommended that you wait until the clock has run down before moving on to the next clip. This also applies to the thank you message we added to the end of each course. If for whatever reason a clip did not run down its time, that course would not register for you as completed.</p>
+</div>
+<h3>Can I replay/rewind the clip?</h3>
+<div>
+<p>Yes! As the clip rolls along, a long horizontal bar appears near the bottom of the clip. To replay a previous section, you can hover your mouse over the clip to reveal a hand icon . Use this icon to hold and drag back the horizontal line to where you want to return. Release the hold, and the clip will continue from the point of release.</p>
+</div>
+<h3>Why am I not shown the correct answers on the interactions?</h3>
+<div>
+<p>Our partners have designed the interactions as practice rather than tests. As such, they highlight best practice and observations. By paying careful attention to the preceding clip, all the information for participation in the interaction would have been explained. You can always replay an interaction if still in doubt.</p>
+</div>
+<h3>Is there a certificate for completing the course?</h3>
+<div>
+<p>Yes there is. Our partners have provided each participant with a Certificate of Completion to evidence participation in the training. The option to download your certificate should appear at the end of each course. In the event that the option does not appear, you can still printout or download your certificate by following these steps:</p>
+<ol>
+<li>On the top right hand side of the page, you will see the ‘person’ icon. Click this</li>
+<li>On the dropdown menu, click ’View profile’</li>
+<li>Scroll down to ‘My Training’</li>
+<li>Click the ‘+’ button on the right side</li>
+<li>Under the Courses tab, you’ll find ‘Your completed courses</li>
+<li>Next to the Course title is the certificate button (with the trophy icon)</li>
+<li>Click the trophy icon</li>
+<li>Certificate opens in a new PDF window</li>
+<li>Click anywhere on that page and the option to either print or download your certificate will be available to you.</li>
+</ol>
+</div>
+<h3>Where can I get further help or make comments?</h3>
+<div>
+<p>If you require further assistance in completing this course, please contact IT ServiceDesk through <a href="mailto:servicedesk@qmul.ac.uk">Email</a>; <a href="http://its.qmul.ac.uk" title="Use alt + click to follow the link">ITS Live Chat</a>; <a href="http://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> options.</p>
+<p> </p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="Microsoft365"></a>Microsoft 365</h2>
+<div id="accordion">
+<h3>Microsoft To-do is an app that allows you to manage you tasks, does it synchronise with Outlook?</h3>
+<div>
+<p>Yes, Microsoft To-do synchronises with Outlook tasks.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="MFA"></a>Multi-Factor Authentication (MFA)</h2>
+<div id="accordion">
+<h3>I’m using a QMUL managed PC or laptop. What should I expect in terms of MFA?</h3>
+<div>
+<p>You will not be prompted for MFA for access to any service, except for VDI / Apps Anywhere.</p>
+</div>
+<h3>I’m using an unmanaged Mac or Windows computer. What should I expect in terms of MFA?</h3>
+<div>
+<p>You will be prompted for MFA once every 30 days by apps like Outlook, Teams or OneDrive client. You will also be prompted for MFA when accessing protected QMUL web apps (Office 365, MyHR, RGMS, Power BI and many other) via a web browser. You get an option to trust your browser for 30 days, before you need to satisfy an MFA prompt again.</p>
+</div>
+<h3>I’m using Linux. What should I expect in terms of MFA?</h3>
+<div>
+<p>You will be prompted for MFA when accessing protected QMUL web apps (Office 365, MyHR, RGMS, Power BI and many other) via a web browser. You get an option to trust your browser for 30 days, before you need to satisfy an MFA prompt again.</p>
+</div>
+<h3>I’m using a mobile device (iOS / Andriod phone or tablet). What should I expect in terms of MFA?</h3>
+<div>
+<p>You will be prompted for MFA once every 30 days by both native mobile email clients and Microsoft mobile apps (Outlook mobile, Teams, OneDrive, SharePoint).</p>
+</div>
+<h3>I’m using an IMAP email client (Thunderbird, etc.). What should I expect in terms of MFA?</h3>
+<div>
+<p>Nothing will change for the time being. You can continue to use your email without MFA. We will roll out MFA support for IMAP, POP and authenticated SMTP clients as soon as it’s available in the Office 365 environment.</p>
+</div>
+<h3>I’m using VDI / Apps Anywhere. What should I expect in terms of MFA?</h3>
+<div>
+<p>You will be prompted for MFA when you open the VDI / Apps Anywhere session. Once you log in, you will not be prompted for MFA while accessing the QMUL protected applications.</p>
+</div>
+<h3>How do I register for MFA?</h3>
+<div>
+<p>You can complete a combined registration for MFA and SSPR by visiting <a href="https://sspr.qmul.ac.uk">https://sspr.qmul.ac.uk</a></p>
+<p>More information and detailed instructions can be found here: <a href="https://www.its.qmul.ac.uk/support/self-help/multi-factor-authentication">https://www.its.qmul.ac.uk/support/self-help/multi-factor-authentication</a></p>
+</div>
+<h3>How do I change my preferred method for MFA?</h3>
+<div>
+<p>You can change your preferred MFA method by revisiting <a href="https://sspr.qmul.ac.uk">https://sspr.qmul.ac.uk</a></p>
+</div>
+<h3>What methods for MFA authentication are available?</h3>
+<div>
+<p>You can use the following methods as your MFA response: · Push notification to the Authenticator app on your mobile phone · One time code sent in a text/SMS message to your mobile phone · Automated voice call to your mobile phone · Automated voice call to a landline phone · In exceptional circumstances, you can request a hardware token to be issued to you. It will generate new One Time Passcodes every 30 or 60 seconds.</p>
+</div>
+<h3>I no longer have the phone which I used for MFA. How can I get into my account?</h3>
+<div>
+<p>Please contact the Service Desk. We will verify your identity and help you register a new phone as your MFA token.</p>
+</div>
+<h3>Can I have more than one phone registered as my MFA token?</h3>
+<div>
+<p>You can have one mobile and one landline number registered for the voice and text/SMS based MFA methods. You can have up to 5 Authenticator Apps (on mobile phones or tablets) associated with your account for push notification or One Time Passcode MFA methods.</p>
+</div>
+<h3>How can I reduce the frequency of MFA prompts on devices I use regularly?</h3>
+<div>
+<p>Apps like Outlook, Teams, OneDrive will prompt you once every 30 days. We cannot change that. You can also tick the “Don't ask again for 30 days” in a web browser, to trust it for that period of time.</p>
+</div>
+<h3>I don’t want to use a phone as my MFA token. What are my options?</h3>
+<div>
+<p>In justified cases, you can be issued with a hardware One Time Passcode token, which will generate new codes every 30 or 60 seconds, which you can use for MFA. Please log a ticket to request it, including your justification. Your department may be charged for the token.</p>
+</div>
+<h3>Will QMUL buy me a phone to use as my MFA token?</h3>
+<div>
+<p>We will not provide phones specifically for use as MFA tokens. If there is a business justification for you to have a QMUL issued mobile phone, there is already a process in place to request it. You’re welcome to use that phone as your MFA token.</p>
+</div>
+<h3>I have specialist accessibility needs and I cannot use a phone or an OTP token due to disability. What are my options?</h3>
+<div>
+<p>Please contact the Service Desk. We can help.</p>
+</div>
+<h3>I got an MFA prompt I wasn’t expecting, should I approve it in the Authenticator App?</h3>
+<div>
+<p>NO! If you get an MFA prompt you were not expecting (you’re not logging in to any of the protected services at that time) DO NOT APPROVE IT. If it happens repeatedly, please contact Service Desk providing approximate time when you received the prompt. We will investigate the logs to see if your password might have been compromised and someone is trying to log in as you.</p>
+</div>
+<h3>What email clients are supported with MFA?</h3>
+<div>
+<p>On Windows, Macs and Linux: Outlook 2013 and newer, Apple mail, IMAP clients like Thunderbird. On iOS: Apple mail on iOS 11 and newer, Outlook Mobile App. On Android: native Google client, Outlook Mobile, BlueMail apps. In general, any email client supporting Modern Authentication (OAUTH2) protocols will work with MFA. We recommend using Outlook for best compatibility with all Office 365 features.</p>
+</div>
+<h3>What are the minimum supported versions of iOS and Android?</h3>
+<div>
+<p>iOS 11 and newer and Android version 6 and newer.</p>
+</div>
+<h3>We use local applications and scripts to send bulk emails to students and staff. Will this continue to work?</h3>
+<div>
+<p>As long as the programmatically generated emails are submitted to our internal email relay smtp.qmul.ac.uk, everything will continue to work as before.</p>
+</div>
+<h3>I'm overseas and getting charged roaming costs to receive verification calls? What should I do?</h3>
+<div>
+<p>We recommend switching your preferred method to Multi Factor Authetication (MFA). You can change your preferred MFA method by going back to <a href="https://sspr.qmul.ac.uk">https://sspr.qmul.ac.uk</a></p>
+</div>
+<h3>My phone number in my MFA registration is incorrect and I can't log in. What should I do?</h3>
+<div>
+<p>Please contact the IT Service Desk who will be able to help.</p>
+</div>
+<h3>I'm traveling to places where my mobile phone may have no signal or be blocked by the local service providers. What should I do?</h3>
+<div>
+<p>There are multiple alternatives available: We could issue a hardware token. It can be used in parallel with the phone when the signal is available. Also, the Authenticator App generates codes every 60 sec, just like the hardware token does, without the requirement for mobile service or internet connection.</p>
+</div>
+<h3>Will students or staff have to attend campus to resolve any MFA issues?</h3>
+<div>
+<p>We have a well-staffed service desk available to help you remotely in resolving MFA issues as they arise. We've already successfully enrolled thousands of staff and students.</p>
+</div>
+<h3>Why are we required to set long and complicated passwords?</h3>
+<div>
+<p>The requirement for 12 to 20 character long password was introduced to offset the fact that QMUL does not enforce a periodic password change every 3 or 6 months. The password policy will allow for the use of a passphrase or three random words, which are actually easier to remember than a complex 8 character password. This follows as closely as we can, the current best practice and government guidance from the National Cyber Security Centre. The combination with MFA and single sign on for many applications mitigates the risk of many insecure passwords being employed.</p>
+</div>
+<h3>What happens if I don't complete the MFA registration?</h3>
+<div>
+<p>If you don't complete the MFA registration ahead of time, you will be required to do it next time you sign into any of the protected applications (Office 365 app, MyHR, RGMS and many more)</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="myhr">MyHR</h2>
+<div id="accordion12">
+<h3>Who can access MyHR?</h3>
+<div>
+<p>All QMUL permanent employees and QMUL contractors have access to MyHR.</p>
+<p>Agency/Contractors and those who are not paid by QMUL payroll will not have access to MyHR.</p>
+</div>
+<h3>Which details do I need to use to log onto MyHR?</h3>
+<div>
+<p>You will need to login with your IT credentials (i.e. abc123) and your memorable information.</p>
+</div>
+<h3>I am new to QMUL and need access to MyHR, what do I need to do?</h3>
+<div>
+<p>Contact the Service Desk either by <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raising a ticket</a>, or by calling 0207 882 8888, and let us know that you are a new starter and need access to MyHR.</p>
+<p>Once your account has been associated, it may take up to 48 hours for your MyHR account to be activated.</p>
+</div>
+<h3>Can I access MyHR off-campus?</h3>
+<div>
+<p>Yes, from 1st August MyHR will be available from anywhere with an internet connection. </p>
+<p>Firstly, you will need to install the Microsoft Authenticator app on your mobile or tablet. The app can be downloaded for free from Google Play store or Apple App Store. </p>
+<p>Information on how to set up and use this new MFA service from Wednesday 1 August are available to download from <a href="http://www.its.qmul.ac.uk/" title="Use alt + click to follow the link">www.its.qmul.ac.uk</a>. Please be aware that you will need a separate device with internet connection to complete the set up. </p>
+<p>Once you have set up MFA following the instructions, you will be able to access MyHR via a web browser on any device by going to<span> </span><a href="https://myhr.qmul.ac.uk/" title="Use alt + click to follow the link">myhr.qmul.ac.uk</a>.<span> </span></p>
+</div>
+<h3>I get the error message “Invalid Login”, what do I do?</h3>
+<div>
+<p>You may get the above error message for the following reasons:</p>
+<ul>
+<li>Password has expired – Reset your password on <a href="https://aka.ms/sspr">PRM</a></li>
+<li>Passwords are not synchronised – If you are using a PhD account instead of a staff account, you will need to get your password synchronised. Contact the Service Desk to assist you with this</li>
+<li>Entered your password in at least 5 times incorrectly</li>
+<li>Account has not been associated to your MyHR record</li>
+</ul>
+<p>You will still need to contact the Service Desk so your account can be unlocked.</p>
+</div>
+<h3>I need a copy of my P45 can you help?</h3>
+<div>
+<p>No, you will need to contact your HR Representative and ask them if they can send it to you.</p>
+</div>
+<h3>I’ve forgotten my Memorable Information, what do I do?</h3>
+<div>
+<p>You can call the Service Desk on 0207 882 8888 and request your memorable information to be reset.</p>
+</div>
+<h3>I don’t remember my NI number, can the Service Desk help?</h3>
+<div>
+<p>You will need to talk to your HR representative and ask them to issue it to you.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="Onedrive"></a>OneDrive</h2>
+<div id="accordion">
+<h3>When should I use SharePoint, and when OneDrive?</h3>
+<div>
+<p>OneDrive is for personal use. Use it to synchronize your work files across your devices. You can share files and folders with individuals. SharePoint is for collaborative team work. Use it to organize project files that need to be accessible for a group of people.</p>
+</div>
+<h3>Where can I sign into OneDrive from?</h3>
+<div>
+<p>Any computer, tablet or smart phone with a modern browser and internet access can be used to sign in. Your QMUL username and password will also be needed.</p>
+</div>
+<h3>How much storage do I have in OneDrive?</h3>
+<div>
+<p>Each user has 1024GB of storage in OneDrive.</p>
+</div>
+<h3>Where should I store my own documents which I currently store on a J: drive?</h3>
+<div>
+<p>OneDrive will hold you personal documents within QMUL.</p>
+</div>
+<h3>I see two OneDrive folders on my computer, why is this?</h3>
+<div>
+<p>The OneDrive synchronisation (sync) allows files to be synchronised locally and in the cloud. There is two versions of the OneDrive software. OneDrive for Business (provide by QMUL) and OneDrive Personal (your own OneDrive). If you have both installed you might see two OneDrive folders on your computer and two icons in the system tray (bottom right next to the clock).</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="onlineexamsupport">Online Exam Support</h2>
+<div id="accordion13">
+<h3>What is the required notice period to request for support for an exam?</h3>
+<div>
+<p>The notice period that needs to be provided is 3 months before an exam takes place.</p>
+</div>
+<h3>Is there a cost for requesting installation of a new software?</h3>
+<div>
+<p>Yes, there may be a charge for any installations of new software or licences.</p>
+</div>
+<h3>How can I request exam support?</h3>
+<div>
+<p>You will need to <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a> including the following details:</p>
+<ul>
+<li>Date, time and duration of exam</li>
+<li>Location of the exam, e.g. room, building, etc.</li>
+<li>Number of candidates</li>
+<li>Will you need additional Accounts (temp accounts)</li>
+<li>Do the PCs need to have restrictions applied? E.g. internet restriction during the exam</li>
+<li>What software the exam is to be on? E.g. MS Word</li>
+<li>Is printing required?</li>
+<li>Is IT support required during the exam and if so for how long?</li>
+</ul>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="password">Password</h2>
+<div id="accordion14">
+<h3>I have forgotten my password can you reset it?</h3>
+<div>
+<p>No, but we can help you use self-service. Password reset is a self-service facility. Once registered for Self Service Password Reset (SSPR) you can change your password at <span> </span><a href="https://aka.ms/sspr" rel="noopener" target="_blank">https://aka.ms/sspr</a>. Further details below.</p>
+</div>
+<h3>How do I reset my password?</h3>
+<div>
+<p>To reset your password you must be registered for Self Service Password Reset (SSPR)</p>
+<p><strong>If you are registered with SSPR you can choose to:</strong></p>
+<p>Receive a verification code via text or email to your registered alternate contact phone/email. For guidance watch short <a href="https://www.youtube.com/channel/UC2P-9Pbkh9YBjx36q5VANpw">video tutorials</a> or follow the steps below</p>
+<ul>
+<li><strong>STEPS</strong>
+<ul>
+<li>Go to <a href="https://aka.ms/sspr" rel="noopener" target="_blank">https://aka.ms/sspr</a></li>
+<li>In the User ID box enter your username@qmul.ac.uk <span>e.g.</span> <span>abc12345@qmul.ac.uk</span></li>
+<li>Enter the characters in the picture or the audio and click <strong>Next</strong></li>
+<li>Choose either "I forgot my password" or "I know my password but..." <span>click </span><strong>Next</strong></li>
+<li>Choose to receive a verication code to either your mobile or your alternative email (these will be the mobile and/or email address you gave when registering for SSPR)</li>
+<li>When you receive the code enter into the verification code box, click <strong>Next</strong></li>
+<li>Choose a new password and confirm new password, click <strong>Finish</strong></li>
+<li>You have now reset your password</li>
+</ul>
+</li>
+</ul>
+<p><strong>If you are NOT registered for SSPR and you DO NOT know your current password contact the <a href="/its/support/helpdesk/">IT Service Desk</a></strong></p>
+<p><strong>If you<span> </span>are NOT registered<span> </span>for SSPR and you DO</strong> <strong>know</strong> <strong>your current password see below to register</strong></p>
+<p>Watch a short <a href="https://www.youtube.com/watch?v=FFz2aibAWr8">video tutorial</a> or follow the steps below </p>
+<ul>
+<li><strong>STEPS</strong>
+<ul>
+<li>Go to <a href="http://sspr.qmul.ac.uk">http://sspr.qmul.ac.uk</a></li>
+<li>Sign in with your username@qmul.ac.uk <span>e.g.</span><span> </span><span>abc12345@qmul.ac.uk</span></li>
+<li>You will be taken to the Queen Mary login page</li>
+<li>Enter your current password</li>
+<li>The next page "Keep your account secure", add security information</li>
+<li>We recommend you add both a personal email and mobile number</li>
+<li>To complete registration enter the code/s sent to your personal email and/or mobile</li>
+<li>Once registered you can reset your password following the steps <a href="#Change password">above</a></li>
+</ul>
+</li>
+</ul>
+<p>For further information on how to use the tool please visit the link below:</p>
+<ul>
+<li><a href="https://www.its.qmul.ac.uk/support/self-help/self-service-password-reset/">https://www.its.qmul.ac.uk/support/self-help/self-service-password-reset/</a></li>
+</ul>
+<p>If you are unable to reset your password, please call IT Services on 0207 882 8888, our lines are open 24/7.</p>
+</div>
+<h3>Can I change my password off campus?</h3>
+<div>
+<p>Yes, you can reset your password off campus.</p>
+<p>For instructions on how to do this, please click on the above question.</p>
+</div>
+<h3>I can’t reset my password while off campus, can you help?</h3>
+<div>
+<p>Yes, our lines are open 24/7, you can call us on 0207 882 8888.</p>
+</div>
+<h3>How often will my password expire?</h3>
+<div>
+<p>Passwords will never expire.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="Planner"></a>Planner</h2>
+<div id="accordion">
+<h3>Where can I sign into Planner from?</h3>
+<div>
+<p>Any computer, tablet or smart phone with a modern browser and internet access can be used to sign in. Your QMUL username and password will also be needed.</p>
+</div>
+<h3>Can I see Planner Tasks in To-do?</h3>
+<div>
+<p>Yes, open the 'Assigned to me' view and your Planner tasks will be shown.</p>
+</div>
+<h3>Can I a see all Planner tasks in a central way that shows me all the plans I have access to?</h3>
+<div>
+<p>Yes, in the Planner App the Planner Hub view will show you all your plans and tasks that are associated with them.</p>
+</div>
+<h3>Can I a see all Planner tasks in a central way that shows me all the tasks I have access to?</h3>
+<div>
+<p>Yes, the Planner App the My tasks view will show you all your tasks that are for you.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="print">Printing</h2>
+<div id="accordion15">
+<h3>How much does it cost?</h3>
+<div>
+<p>An up-to-date table of prices can be found <a href="http://www.its.qmul.ac.uk/services/students/printing/index.html" title="Use alt + click to follow the link">here</a>.</p>
+<p>You are charged for printing and copying by clicks (one click = one side of paper). The cost of a single side is 4p but drops to 3.5p when you print double-sided. If odd pages are printed the system will round up to the nearest penny.</p>
+</div>
+<h3>I am a visitor, can I print?</h3>
+<div>
+<p>You may be able to print if this has been organised by your host. They will need to contact IT Services prior to your visit to ensure this has been enabled on your temporary account.</p>
+</div>
+<h3>I sent something to print whilst I was on campus, is there any way I can retrieve those print jobs at another campus?</h3>
+<div>
+<p>Yes, if you have sent print jobs to a Hewlett Packard printer you can access them within 24 hours on any other Hewlett Packard printer at any of the campuses.</p>
+</div>
+<h3>Can I get a refund for faulty printing?</h3>
+<div>
+<p>You may request a refund for a spoiled or faulty print job. If you do, you can visit the library and give them the details of what happened. This includes which printer issued the faulty, or failed, prints and the exact details of the print failure.</p>
+<p>Alternatively, you can visit the Helpdesk on the Mile End campus, W209 in the Queens’ Building. You will be asked to show your ID card, the spoiled print jobs, and how much you want refunding. We will also need to take a look at your account to see your printing history and credit your account with the amount due.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<p style="text-align: right;"> </p>
+<h2 id="requesting" style="text-align: left;">Requesting a Device</h2>
+<div id="accordion15">
+<h3>Will I need a Business case for a MAC and will it be funded by IT Services?</h3>
+<div>
+<p>Yes, if the business case for a Mac is approved, ITS will fund this, if it is a new member of staff and their only device or to replace a damaged device.  If their request is also non-standard i.e. not the model offered in the service catalogue and exceeds the cost of the standard Mac, the difference will need to be paid by the department..</p>
+</div>
+<h3>If I have had a Mac for 6 years but now need a new device will a Mac replacement be provided?</h3>
+<div>
+<p>Yes, if the device is damaged or has reached a certain age, this will be replaced with the current standard device or a like for like basis and require a Checklist form approved by IT Services. </p>
+</div>
+<h3>Can I keep my laptop when I move roles?</h3>
+<div>
+<p>Yes, if you are moving to a new role within QM, this includes secondment posts too.</p>
+</div>
+<h3>What if a staff member is on long-term / sick leave?</h3>
+<div>
+<p> The member of staff will keep their device. Staff covering this role will be allocated a pre-owned device.</p>
+</div>
+<h3>Do I have to return my laptop when I leave QM?</h3>
+<div>
+<p>Yes, you must return your laptop to your line manager, who will notify IT Services to collect the the device to redeploy after re-imaging and removing licences.</p>
+</div>
+<h3>Does PEP Package come with non-standard/self-managed device requests?</h3>
+<div>
+<p>We don’t provide PEP a with non-standard request. We provide a PEP Bundle with a self-managed device with an approved business case.</p>
+</div>
+<h3>Will I need to submit two business cases for non-standard self-managed device</h3>
+<div>
+<p>Yes, We ideally need to be aware of both requests, so no purchase is made until both are approved</p>
+</div>
+<h3>Am I only permitted to have 1 device, even if I have a research grant (with equipment)? What happens if the machine needs to be destroyed at the end of the research? What happens if the device goes with the grant?</h3>
+<div>
+<p>If a research grant has been allocated to purchase a device and that device can be used for both BAU and the Research project without going against any of the policies, then the centrally deployed device can be returned to IT Services and the research grant purchased device can be used as the sole device for work and research. If however there is a real need to have two separate devices to carry out two separate duties, then under this exceptional circumstances two devices maybe permitted</p>
+</div>
+<h3>What counts as an additional device (iPad, android tablets, etc.,) as I might not want to take an expensive machine on fieldwork</h3>
+<div>
+<p>A laptop and Ipad/Tablet will be considered as two devices.</p>
+</div>
+<h3>What happens if I needs a specific type of machine for research/research software?</h3>
+<div>
+<p>If a standard device offering is not suitable a business case must be submitted for review and approval to IT Services</p>
+</div>
+<h3>Do I need a business case for a QM mobile phone?</h3>
+<div>
+<p>Currently No business case is required.</p>
+</div>
+<h3>Who will handle purchases of equipment?</h3>
+<div>
+<p>ITS Business support manages all hardware purchase... and Campus Support will image and deploy</p>
+</div>
+<h3>Can the machines have specs that are needed for computationally intensive jobs? and who will assist us in tailoring the hardware to such specs (this task is currently performed by DW and I personally do not have the expertise)</h3>
+<div>
+<p>IT Research consultants can assist</p>
+</div>
+<h3>Which budgets will the machines come from? Does central ITS have any say in what we can or cannot purchase?</h3>
+<div>
+<p>ITS will fund PEP for all staff across QM and for PGR students within Faculty of S&amp;E and H&amp;SS</p>
+</div>
+<h3>Is a Managed device a laptop and a Managed Research Desktop Service (mRDS) a desktop?</h3>
+<div>
+<p>Both are laptop devices, ‘desktop’ is a computing terminology to mean the ‘desktop/screen/window’ we see when we boot up the laptop… this is virtual. This is not a physical desktop device.</p>
+</div>
+<h3>Can I have a both a desktop and a laptop? This would be extremely important for colleagues who need a powerful desktop while also allowing them to work from home/while travelling/on sabbatical etc.</h3>
+<div>
+<p>No, QMUL policy state clearly, QM will fund one device per user – PEP. Our standard PEP are laptop devices. Any desktop requests will be treated as non-standard and a business case will be required. So in this scenario you will need to justify (business case) why you require the powerful desktop. And if the second laptop is required and approved this will need to be funded by the school/institute</p>
+</div>
+<h3>I am still a bit unclear about the reference to a SEF device image that can be updated regularly. Is this the same as the "applications packager in place to assist with the transition from the “School managed” to “ITS managed” with a 3 day SLA turnaround time"? Does this mean that we can lodge request of software updates/adds on to central ITS via that "SEF device image" and expect that requests will be fulfilled within three days? And would this apply also to mRDS (for the area that we do not manage)?</h3>
+<div>
+<p>SEF will be converted from ‘SEF device image’ to our QMs ITS image. And now that the project is funding and have recruited a dedicated packaging resource for SEF, this means that you can lodge request of software updates and add on to central ITS managed service and expect that requests be fulfilled within three days.</p>
+</div>
+<h3>Do we have a choice in the specification of the hardware? I understand that we can choose between Mac and PC, but there are several possible hardware configurations for either.. and some might need better specs than others depending on the nature of the work.</h3>
+<div>
+<p>Yes, ITS do have 4 specification options for laptops. However any non-standard requests, FRMs and ITS Research Consultants will assist/advice. FYI… a checklist approval/ Business case may be required and this will go through an approval process.</p>
+</div>
+<h3>Some researchers may have agreements that allow them to individually access and store data, but this agreement may be violated if ITS (or anyone else) has access to the data stored in computer. How does ITS would deal with this?</h3>
+<div>
+<p>All QM staff are required to complete the mandatory training for Cyber Security and Data Protection (GDPR). All basic, personal data are regarded confidential and access will require consent from the user/owner and approval from HR in some cases. Under these requirements a managed device would be highly recommended as this gives you the added security of wiping the data remotely in the event of a theft or loss of the device. The data also belongs to QM… hence it would be QMs remit and best interest to protect the data. This is one of the main objectives of the managed service rollout. However, either way we must comply to the terms and conditions of the research agreement… again ITS Research Consultant will assist/advice in this best tools and equipment to meet your research needs.</p>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<p style="text-align: right;"> </p>
+<h2><a id="SharePointOneDrive"></a> SharePoint</h2>
+<div id="accordion">
+<h3>When should I use SharePoint, and when OneDrive?</h3>
+<div>
+<p>"OneDrive is for personal use. Use it to synchronize your work files across your devices. You can share files and folders with individuals. SharePoint is for collaborative team work. Use it to organize project files that need to be accessible for a group of people."</p>
+</div>
+<h3>Can I password-protect my Office documents stored in SharePoint or OneDrive?</h3>
+<div>
+<p>Yes, as long as you edit your documents in the desktop version of Word or Excel. The browser based versions of Office applications, don't support password protection. The installed application (Word App, Excel App, PowerPoint App) will need to be used as the online application (Word online, Excel online, PowerPoint online) does not work with password encryption.</p>
+</div>
+<h3>Where can I sign into OneDrive from?</h3>
+<div>
+<p>Any computer, tablet or smart phone with a modern browser and internet access can be used to sign in. Your QMUL username and password will also be needed.</p>
+</div>
+<h3>How much storage do I have in OneDrive?</h3>
+<div>
+<p>Each user has 1024GB of storage in OneDrive.</p>
+</div>
+<h3>Where should I store my own documents which I currently store on a J: drive?</h3>
+<div>
+<p>OneDrive will hold you personal documents within QMUL.</p>
+</div>
+<h3>When will the documents need to be moved away from J: drive?</h3>
+<div>
+<p>There is no deadline for moving onto SharePoint from the J: drive at the moment. This is being reviewed.</p>
+</div>
+<h3>I see two OneDrive folders on my computer, why is this?</h3>
+<div>
+<p>The OneDrive synchronisation (sync) allows files to be synchronised locally and in the cloud. There is two versions of the OneDrive software. OneDrive for Business (provide by QMUL) and OneDrive Personal (your own OneDrive). If you have both installed you might see two OneDrive folders on your computer and two icons in the system tray (bottom right next to the clock).</p>
+</div>
+<h3>What are 'Departments' and 'Sub-teams' on the right-hand side of the SharePoint Team Sites?</h3>
+<div>
+<p>This is a placeholder for links to other related teams. This can be removed if not required.</p>
+</div>
+<h3>What documents will show up in the 'My Documents' section on a SharePoint Team Site?</h3>
+<div>
+<p>In this area you will be able to see documents that have been created by or modified by current users in the site.</p>
+</div>
+<h3>How do I maintain the Team Calendar on the SharePoint Team Site in Outlook 365.</h3>
+<div>
+<p>Events in the team calendar are editable via Outlook. Your Team Calendars are listed underneath your calendars in the left menu.</p>
+</div>
+<h3>Can I invite someone from outside QMUL to be a member of my SharePoint site?</h3>
+<div>
+<p>Yes, just put their email address into the "Add members" field.</p>
+</div>
+<h3>How secure is data stored on SharePoint?</h3>
+<div>
+<p>"Quite secure, as long as members of your SharePoint site keep their QMUL login credentials secure. Microsoft continuously invests in and develops the security features of the SharePoint platform itself. The latest information can be found here: https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data "</p>
+</div>
+<h3>Can I password-protect my Office documents stored in SharePoint or OneDrive?</h3>
+<div>
+<p>Yes, as long as you edit your documents in the desktop version of Word or Excel. The browser based versions of Office applications, don't support password protection. The installed application (Word App, Excel App, PowerPoint App) will need to be used as the online application (Word online, Excel online, PowerPoint online) does not work with password encryption.</p>
+</div>
+<h3>Where can I sign into SharePoint from?</h3>
+<div>
+<p>Any computer, tablet or smart phone with a modern browser and internet access can be used to sign in. Your QMUL username and password will also be needed.</p>
+</div>
+<h3>Who can I share a document with?</h3>
+<div>
+<p>A document can be shared with any person with an email account. Please note that anonymous access to documents is not permitted.</p>
+</div>
+<h3>Where can I find out more about the QMUL data handling (security) guidelines?</h3>
+<div>
+<p>"The QMUL Data Protection Policy is available here: http://www.arcs.qmul.ac.uk/media/arcs/policyzone/Data-Protection-Policy-v03.0.pdf The IT Services - Information Governance and Guidance is available here: https://www.its.qmul.ac.uk/governance/policies/"</p>
+</div>
+<h3>How much storage do I have in SharePoint?</h3>
+<div>
+<p>Each Site has a default 25600GB of storage in SharePoint.</p>
+</div>
+<h3>Who can create a Team or Project site?</h3>
+<div>
+<p>Anyone has the ability to create a Team or Project site. Please attend the Site Owner training to ensure that you follow the correct steps.</p>
+</div>
+<h3>What if I need to share a document with someone who might not have had SharePoint training?</h3>
+<div>
+<p>When you share a document the recipient will receive an email with a link to the document. Clicking on the link will open the document in Word Online (in a browser). They do not need specific training to read / edit a document. The document will be automatically save their changes.</p>
+</div>
+<h3>Is Two Factor Authentication available for SharePoint?</h3>
+<div>
+<p>Two Factor Authentication is an enhanced security process by which the username/password to sign in is augmented with another confirmation to authenticate the user. This could be via a security App on a smart phone or a pin code via email or text. This is a technology which can be added to SharePoint but has not been applied at this point.</p>
+</div>
+<h3>Does Outlook calendar synchronise with the Team calendar?</h3>
+<div>
+<p>Outlook can open a shared calendar and show it either beside or overlay on your own calendar. Select 'Add calendar' on the left. Choose 'Add from Directory' and search for the calendar you have access to.</p>
+</div>
+<h3>Can Active Directory groups be used to manage access to SharePoint?</h3>
+<div>
+<p>Yes, an Active Directory group can be added to a SharePoint group.</p>
+</div>
+<h3>How can a Site Owner change the membership of an active directory group?</h3>
+<div>
+<p>The Site Owner can request a change to an Active Directory group. The Service Desk will need to confirm there are no other uses for that Active Directory group. They may say no to the change.</p>
+</div>
+<h3>Why would I use an Active Directory Group rather than a SharePoint Group?</h3>
+<div>
+<p>SharePoint groups are the responsibility of the Site Owner. Service Desk is responsible for the membership of Active Directory and can make the change, however this will need authorisation from the organisation (the Active Directory Owner.)</p>
+</div>
+<h3>Who is responsible for the permissions of a document?</h3>
+<div>
+<p>The Site Owner is responsible for confirming the permissions are correct with the Document Owner and author (if different to the Document Owner)</p>
+</div>
+<h3>How can I tell who is the document author?</h3>
+<div>
+<p>The Document Author will be the 'Modified by' field in the document details (sometimes called properties or metadata)</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="software">Software</h2>
+<div id="accordion16">
+<h3>What software can I get as a student?</h3>
+<div>
+<p>All free software for students can be found on our <a href="http://www.its.qmul.ac.uk/services/index.html" title="Use alt + click to follow the link">Software Support pages</a>.</p>
+</div>
+<h3>What software can I get as a staff?</h3>
+<div>
+<p>All free and discounted software for staff can be found on our <a href="http://www.its.qmul.ac.uk/services/index.html" title="Use alt + click to follow the link">Software Support pages</a>.</p>
+<p>If the software you are searching for has not been listed on our website under Support or Services, you can request it by <a href="https://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raising a ticket</a>. If the software you are requesting needs to be purchased, please include your budget code.</p>
+</div>
+<h3>Are there any licensing processes I need to be aware of?</h3>
+<div>
+<p>You are not allowed to install or use illegal or unlicensed software. Before installing any personal software please consult IT Services by raising a ticket.</p>
+</div>
+<h3>Are they any installation processes I need to be aware of?</h3>
+<div>
+<p>Yes, you should contact IT Service Desk for any software installation.</p>
+</div>
+<h3>I need to get software we use on during our classes but I don’t see it on the website, why?</h3>
+<div>
+<p>If the software you want is not listed on the website that means it requires a license. Please contact the Service Desk to get a quote or to order.</p>
+</div>
+<h3>Does IT Services give training on the software on my computer?</h3>
+<div>
+<p>No. We do however have some free Microsoft training packages on <a href="http://qmplus.qmul.ac.uk/course/search.php?search=microsoft" title="Use alt + click to follow the link">QMPlus</a>. This is only accessible for QMUL staff and students.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="stolen">Stolen/ Lost devices - Staff Only</h2>
+<div id="accordion17">
+<h3>Lost your mobile phone, laptop or similar IT equipment?</h3>
+<div>
+<p><strong>IMMEDIATELY</strong></p>
+<p>To ensure any data, personal or Queen Mary, is protected please take the following actions:</p>
+<ul>
+<li>Reset your password to ensure access to any data can be blocked</li>
+<li>Find an internet connected device and use SSPR to reset your <a href="https://www.its.qmul.ac.uk/support/self-help/self-service-password-reset/" rel="noopener" target="_blank">password</a></li>
+<li>If you cannot access or use SSPR – Contact IT Services by Chat or Phone <a href="https://www.its.qmul.ac.uk/" rel="noopener" target="_blank">(its.qmul.ac.uk)</a></li>
+<li><em>Do not <strong>email</strong> or use <strong>self-service</strong> as these channels are only checked in business hours </em></li>
+<li>If you have set up remote wipe tools for your device use this promptly to wipe/lock access to your data</li>
+<li>Contact your mobile data provider to block your device</li>
+</ul>
+<p><strong>WITHIN 24 HOURS</strong></p>
+<p>With your password reset please ensure the incident is reported to the relevant areas:</p>
+<ul>
+<li>Report to the appropriate authorities, we will need the statement number they issue you</li>
+<li><a href="https://www.qmul.ac.uk/security/" rel="noopener" target="_blank">Inform Estates Security</a> that a Queen Mary asset has been lost or stolen.</li>
+<li>Contact Finance regarding Insurance and cover for <a href="http://qm-web.finance.qmul.ac.uk/sections/insurance/" rel="noopener" target="_blank">stolen items</a></li>
+<li>Contact your mobile device provider (or your internal administrator) to issue a new device</li>
+<li>If you haven’t shared data/device details, update IT Services about the device and the data contained on it:</li>
+<li>Did it contain any "Restricted" or "Confidential" data?</li>
+<li>Was it:
+<ul>
+<li>a) a standard "managed" machine (in which case the disc was fully encrypted), or</li>
+<li>b) another (self-managed) machine with a fully encrypted hard disc, or</li>
+<li>c) a machine without any encryption applied to the hard disc?</li>
+</ul>
+</li>
+<li>Was any removable media that might have contained QMUL data included in the loss or theft?</li>
+</ul>
+<p>IT Services will, with your information, inform the Queen Mary Records &amp; Compliance team of the incident to alert of the potential data loss.</p>
+<p>To obtain a replacement for a device issued by IT Services, please use <a href="https://servicedesk.qmul.ac.uk/QMULServiceDesk.BridgeIT#/logon" rel="noopener" target="_blank">Self-Service</a> and select the appropriate replacement.<br/>Please note IT Services does not cover loss or theft .Please refer to the <a href="https://www.its.qmul.ac.uk/media/its/service-desk/ITS-Computing-Device-Policy-v1.7.pdf">ITS-Computing-Device-Policy-v1.7.pdf (qmul.ac.uk)</a></p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="microsoftteams"></a>Teams</h2>
+<div id="accordion">
+<h3>How do I use the channel feature to set up a meeting?</h3>
+<div>
+<p>Meeting in channels is great to keep everything together for teams of people. To schedule a meeting in a channel, make sure that everyone you want to invite to the meeting is in the team. Unfortunately, using distribution and group lists is not supported… yet!</p>
+</div>
+<h3>How do you use Teams with external guests?</h3>
+<div>
+<p>The simplest and easiest way (for other parties) to chat / speak / see / collaborate with you is through a Teams meeting. Teams meetings can be scheduled through Outlook as though you were scheduling a “normal” meeting (click the Teams button when you create the meeting invite – this button appears in the desktop version of Outlook once you have the Teams application installed on your computer). They can also be scheduled through Outlook on the Web or Outlook Mobile, and through the calendar in the Teams app itself.</p>
+<p>When you schedule a Teams meeting with an individual or a group of people, the recipients of the calendar invite will see a clickable Teams Meeting link in the invitation. When they click the Teams Meeting link they can either join through the Teams application (if they have installed it) or through a modern web browser.</p>
+<p>The individuals you invite don’t need to be Teams users – anyone can join a Teams meeting – this makes it the easiest and most reliable method of collaborating with externals as with other methods (noted below) the outcome partly depends on the setup outside of QM i.e. the other user’s organisation, which QM cannot control.</p>
+<p><strong>Other Options</strong></p>
+<p>The limitation of Teams Meetings is that your collaboration opportunities are confined to meetings, as opposed to being ad hoc and asynchronous. You don’t see presence information for those individuals outside of the meeting, and they don’t have access to the resources of any Teams which you have set up. Sometimes this is desirable and appropriate, but not always, in which case there are further options to collaborate externally and to “bring people in” to a fuller Teams experience. The main issue with the other options is that each can be frustrated by restrictions/limitations which may have been placed on access by the IT provider of the 3rd party. Our suggestion is to “just try them” and see what happens, but there can be no guarantees that the external user is able to communicate / collaborate outside of a Teams Meeting. This means it’s unrealistic to expect Teams to replace email altogether, though hopefully you will drastically cut down your use of email.</p>
+<p>In addition to meetings, Microsoft Teams gives you two different ways to communicate and collaborate with people outside your organization.</p>
+<p>The first – external access – lets you find, call, and chat with users in other organisations (for example UCL – people with email address format of ucl.ac.uk). The second – guest access – lets you add individuals to your teams, as guests, using their email address. You can collaborate with guests as you would with any other users in your organization (within a Team/channel, once they are added to your Team).</p>
+<p>You can use both external access and guest access if you want - one does not preclude the other.</p>
+<p>At a high level, here’s how to choose (for a detailed comparison, see the table at the end of this article)</p>
+<p><strong>External Access</strong></p>
+<p>Use external access when you need a solution that lets external users in other domains find, call, chat, and set up meetings with you. External users have no access to your organization's teams or team resources. Choose external access when you want to communicate with external users who are still on Skype for Business or Skype.</p>
+<p>There are some limitations to external access and the outcome partly depends on whether the other organisation is using Teams and any limitations their IT Dept have placed on external access from their end. QM has no restrictions and allows external access with any organisation. If you’re unable to reach the other party using external access, you try Guest access or you can just invite them to a Teams meeting.</p>
+<p>In order to start an interaction with external access, click the “New chat” icon to the left of the search bar at the top of teams. Paste in the email address of the user and hit enter. You may (depending on how they’re set up) be able to send them a message and see their presence. Assuming this works you should also be able to call them.</p>
+<p>Currently QMUL is in transition from using Skype as default communication tool in Office 365, to using Teams. Until this transition is completed (planned for Summer 2020), messages from external users to QMUL users sent by the method described above, will arrive in Skype. If you want external users to have access to teams and channels, guest access might be a better way to go.</p>
+</div>
+<h3>Do you need to download the app to join a Teams call?</h3>
+<div>
+<p>No, you don't need the app to join a call or even participate in Teams, just a modern web browser (not Internet Expolrer). However, downloading the ap gives you all the most useful features - background effects, multiple people tiled on the screen etc.</p>
+</div>
+<h3>If I create a team, can I invite someone to the meeting without me being present?</h3>
+<div>
+<p>Yes, just set up the meeting in the channel, and then you don't need to join</p>
+</div>
+<h3>How do you know if your guest has accepted your invitation? Can people join without an invite?</h3>
+<div>
+<p>In the case of a meeting invite - you can see this in your calendar assuming the recipient responded to the meeting invite - a Teams meeting is really just a calendar meeting. In the case of inviting a guest as a member of your team, you don't currently receive confirmation that they accepted your invitation though you could ask them to post a message to the team confirming they have access. Anyone can be invited, but in order to join, you need the meeting link</p>
+</div>
+<h3>Can you add a whole group of students to this?</h3>
+<div>
+<p>Yes! Class Teams are a great way to work with students</p>
+</div>
+<h3>If I schedule a regular Teams meeting does this automatically call all in a Team at that time? If so, what happens if one of the meetings fall on a day when one member of team is on leave?</h3>
+<div>
+<p>When you schedule a teams meeting in a channel, it will initiate the meeting at the time scheduled and prompt people to join, but not actively call them</p>
+</div>
+<h3>Do meetings you add to your Teams calendar sync with Outlook?</h3>
+<div>
+<p>Yes, they do and vice versa</p>
+</div>
+<h3>How do I switch on captions and personalise or blur the background photo?</h3>
+<div>
+<p>In a call, tap the three dots on the Teams calling bar, then chose switch on captions or show background effects. You need the desktop version for this</p>
+</div>
+<h3>What is the lobby?</h3>
+<div>
+<p>The lobby is a waiting room. You can use it with external participants to have them wait while you meet internal collagues and then let them in when you are ready, for example. It can't be used currently with internal people, but this is coming. Any presenter can admit people in the lobby</p>
+</div>
+<h3>Can you add as many people as you want to a meeting?</h3>
+<div>
+<p>Pretty much - 250 in each Teams Meeting, 5000 people in a Team, you can be a mamber of 1000 Teams - but less is best!</p>
+</div>
+<h3>Can people still see you (if video is on) if you are looking at a different tab during a meeting?</h3>
+<div>
+<p>Yes</p>
+</div>
+<h3>If you leave the chat, do you still get access to whatever is on the chat following your departure?</h3>
+<div>
+<p>If you leave a chat, you cease to be able to access it and all content</p>
+</div>
+<h3>When you mute all, do they have control to unmute?</h3>
+<div>
+<p>Yes, they can unmute. Just like in physical meetings, you can't control what people say and when they say it</p>
+</div>
+<h3>Can only one person share screen at any one time?</h3>
+<div>
+<p>Yes, just one</p>
+</div>
+<h3>Can you rejoin a meeting once you've left?</h3>
+<div>
+<p>Yes, as long as the organiser has not ended the meeting using the end meeting now button</p>
+</div>
+<h3>How do you make someone else an owner?</h3>
+<div>
+<p>First make them a member, then change their ststus in the settings tab - or add them as an owner in the first place</p>
+</div>
+<h3>Can you remove yourself from a Team?</h3>
+<div>
+<p>Yes, just tap leave in the three dots menu next to the Team name. If you are the last owner, you will need to delete the Team or add someone else as an owner before leaving</p>
+</div>
+<h3>What is the request control button?</h3>
+<div>
+<p>You can request control over a screen share to work on that document or app. The person whose computer it is needs to allow the control and can stop it at any time</p>
+</div>
+<h3>Are the files in the Teams/Files area separate to the documents area in Sharepoint</h3>
+<div>
+<p>Yes, when a team is set up, a sharepoint site is created to store the documents, but this is separate from other sharepoint sites you may have</p>
+</div>
+<h3>How can you organise file sharing in Teams?</h3>
+<div>
+<p>Files are shared with others in the Team, and by clicking 'get link', they can be shared internally, but only if the recipient has access, just as in Sharepoint. These are deleted with the chat after six months</p>
+</div>
+<h3>Are the shared files encrypted?</h3>
+<div>
+<p>When you share a link, you are only sharing the link. When editing or viewing, the connection and the content is secure and encrypted. Sharing externally from Teams is possible but you need to open the team file store in SharePoint and share from there. There is the option to block download and only allow viewing. File storage is very secure as it is based in SharePoint, stored in the UK in Microsoft's secure datacentres, backed up in Europe. Microsoft storage is SAS70 certified, which is the highest security standard. It is enrypted end to end when you access it</p>
+</div>
+<h3>Do the files that you upload into a team or a channel get uploaded to SharePoint too?</h3>
+<div>
+<p>Yes, Teams file storage is just another way of looking at a SharePoint site, so they actually live in SharePoint and are just viewed through Teams</p>
+</div>
+<h3>How is the Document Library different from Files?</h3>
+<div>
+<p>Sharepoint can have many document libraries. Teams has one folder per Team channel in a single parent document library which lives in the Sharepoint site owned by the Team. To summarise, Files is a folder in a document library</p>
+</div>
+<h3>So can we use other apps like OneNote?</h3>
+<div>
+<p>Yes</p>
+</div>
+<h3>Are meeting notes visible to everyone or just you?</h3>
+<div>
+<p>Meeting notes ar visible to everyone in the meeting, but are saved to the OneDrive of the person who clicks on the create meeting notes link. So technically, that person owns them</p>
+</div>
+<h3>With sharing, I've shared word documents before, but can you also share a PDF?</h3>
+<div>
+<p>Not in the same way, only office documents can be shared in a granular way</p>
+</div>
+<h3>Is there a limit to the size of the SharePoint site we can integrate into teams?</h3>
+<div>
+<p>There is no limit to what you can add to Teams. SharePoint sites have large storage capacity, that is not easily filled. The actual capacity depends on how the whole of Office 365 is set up - the total space available is shared across all sites</p>
+</div>
+<h3>How can I find the location of files that are stored in Teams?</h3>
+<div>
+<p>Each Team has one default file storage location, in the files tab. It's a SharePoint site and can be synced to your desktop if you wish</p>
+</div>
+<h3>Which is better, SharePoint or OneDrive for meeting files?</h3>
+<div>
+<p>OneDrive is broadly for your files, SharePoint is for group owned files. Both could be places for meeting files, but if they need to be shared with a group, SharePoint or teams files may be the best option</p>
+</div>
+<h3>Is there a way to export chats for permanent storage?</h3>
+<div>
+<p>No, chat is kept for six months after the last activity and then permanently deleted</p>
+</div>
+<h3>Does Teams pick up out of office messages?</h3>
+<div>
+<p>Yes - Teams will apply the same out of office message</p>
+</div>
+<h3>Can you stop notifications of extra people being added to the meeting flooding everyone's email inbox?</h3>
+<div>
+<p>This should not happen if you add the users in Outlook desktop or Outlook on the Web</p>
+</div>
+<h3>What is 'post to multiple channels'?</h3>
+<div>
+<p>If you are in a Team with lots of channels and you want to post the same message to all of them, you can use the post to multiple channels to make it easier, this can even be into channels across multiple teams</p>
+</div>
+<h3>How do I stop other group messages coming through whilst I am on another meeting?</h3>
+<div>
+<p>Set your presence to 'do not disturb'</p>
+</div>
+<h3>Zoom has the "raise hand" feature so that the organiser can keep track of who wants to talk next. Is this available in Teams?</h3>
+<div>
+<p>Raise hand is now available in Teams</p>
+</div>
+<h3>what is the quickest way to have a private conversation with one or more people individually whilst the meeting is ongoing?</h3>
+<div>
+<p>Either find them in chat, or from inside the meeting, hover over their name and you can message them privately</p>
+</div>
+<h3>If you've hidden a team and someone @s you, will you be notified?</h3>
+<div>
+<p>If you are mentioned directly, you will be notified</p>
+</div>
+<h3>If I add new people to the team do they see the historic chat or only from the point they joined?</h3>
+<div>
+<p>In a Team, they will see all historic information. In a chat you can decide what new members see</p>
+</div>
+<h3>Is there a search function to look for a particular topic discussed in a chat?</h3>
+<div>
+<p>Yes, the search is magnificent! Search files, chat, messages… anything</p>
+</div>
+<h3>How do you do delete chats?</h3>
+<div>
+<p>You can delete your own posts in chat and in Teams conversations</p>
+</div>
+<h3>Can you restrict access on a channel so not everyone on the team can access it?</h3>
+<div>
+<p>Yes, create a private channel</p>
+</div>
+<h3>Can you meet now with someone not in any of your teams or do you have to schedule that?</h3>
+<div>
+<p>You can call them to meet from a private chat</p>
+</div>
+<h3>How long are meeting recordings held for? Are you recording the subtitles too if you have turned them on?</h3>
+<div>
+<p>If scheduled via outlook and therefore saved into a chat, the recording is available for 6 months after all activity in the chat has ceased. Subtitles are not recorded in a meeting. However, the recording is transcribed when the video is saved - you can access this transcript through Mircorosft Stream. Click the three dots next to the video and open with Stream. If it is in a supported language, you'll see the transcript. It does not yet attribute what was said to each speaker, but this is coming in a few months</p>
+</div>
+<h3>Who has access to the recording and is it stored forever?</h3>
+<div>
+<p>Access to recordings is for the people who are invited to the meeting. These recordings are saved into Microsoft Stream and linked to the meeting chat. They are kept by default for 6 months after the chat is no longer in use. If you meet in a channel, the recording stays until the Team is deleted. To stop anyone from recording your meeting (when you want to protect the content of group) make them attendees. If multiple people record the meeting, only one recording can be made of each meeting. All presenters can start and stop the recording</p>
+</div>
+<h3>There is a management planning issue for people leaving Queen Mary and we then cannot manage what they left</h3>
+<div>
+<p>Teams without owners can be problematic, this is why we suggest adding more than one owner. With evidence of management approval, the service desk can add new owners to existing Teams. Members access is terminated with closure of their IT account</p>
+</div>
+<h3>Are there any GDPR issues?</h3>
+<div>
+<p>All content is GDPR and FOI compliant, and Office 365 has a compliance centre to handle this. Microsoft is a leading supplier of cloud services for government, military, healthcare, and many of the largest companies in the world, as well as a majority of educational institutions. You can look at the Trust center for an up to date list of certifications / accreditations and audit reports of the Microsoft 365 platform</p>
+</div>
+<h3>How to connect your Jabra speaker to use MS Teams?</h3>
+<div>
+<ul>
+<li><span>Set up a Teams meeting and invite participants as normal</span></li>
+<li><span>One colleague in the room plugs the <strong>Jabra portable</strong> speaker into <strong>a</strong> USB port of their laptop, and joins the Teams meeting, ensuring that their speaker and microphone are activated </span></li>
+<li><span>Ensure that the speaker is located in the centre of the group as far as possible</span></li>
+<li><span>The remote colleagues join the Teams meeting as normal with cameras, speakers turned on.</span></li>
+<li>Participants who are in-room join the Teams meeting with their speaker and microphone muted (to prevent “howl around”) but with their cameras activated</li>
+<li><span>All colleagues should then be able to see all participants wherever they are, and participate in the Teams “Chat”</span></li>
+<li><span>All colleagues will be able to display materials on the laptop screens</span></li>
+<li><span>Current cost is £72.00 inclusive of VAT. Please check the current cost in the IT Service Catalogue when available</span></li>
+</ul>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="Teams Live Events"></a>Teams Live Events</h2>
+<div id="accordion">
+<h3>How is a Teams Live Event different from a Teams Meeting?</h3>
+<div>
+<p>There are two main differences: - in Teams Meetings, any participant can unmute their mic, or share their video feed or screen content. Teams Live Events is a broadcasting platform where only nominated presenters can speak or share video and content to the audience. - Teams Meetings can currently accommodate 250 people, while Live Events can have up to 10,000 audience members.</p>
+</div>
+<h3>Can I use Teams Live Events on a mobile device?</h3>
+<div>
+<p>You can watch a Live Event on an iOS or Android device as an audience member, but you cannot produce a Live Event on these platforms. You’ll need to download Microsoft Stream app on your device to watch.</p>
+</div>
+<h3>Can I use Teams Live Events in a web browser?</h3>
+<div>
+<p>You can watch a Live Event in a web browser as an audience member, but you cannot produce a Live Event from a browser. You need to install the MS Teams Client on your computer to produce an event.</p>
+</div>
+<h3>Can members of the public watch my Live Event?</h3>
+<div>
+<p>Yes, when you create your event, you can specify if it’s viewable to: -Specific people -Everyone with a QMUL account (all students and staff) -The general public – anyone on the internet who receives the link to join</p>
+</div>
+<h3>Is there training for Live Events available?</h3>
+<div>
+<p>Yes, please watch <a href="https://web.microsoftstream.com/video/47583a3a-a7ae-431b-8940-6428c0cd115e" rel="noopener" target="_blank">this training video</a>, which covers all aspects of Live Events</p>
+</div>
+<h3>How many people can watch my Live Event?</h3>
+<div>
+<p>At the time of writing, the audience limit for Live Event is 10,000</p>
+</div>
+<h3>Can audience members actively participate in a Live Event?</h3>
+<div>
+<p>You can enable moderated Q&amp;A functionality for your Live Event, which gives the audience an ability to ask questions, post comments, and “like” published posts. Audience members cannot participate with voice, video or content sharing.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2 id="timetable">Timetable</h2>
+<div id="accordion18">
+<h3>Where can I find my timetable?</h3>
+<div>
+<p>After logging onto <a href="http://qmplus.qmul.ac.uk/" title="Use alt + click to follow the link">QM+</a>, you will find a button which reads <strong>Timetable</strong> under your name in the <strong>Welcome</strong> box. Make sure you are selecting the correct semester/date when searching for your weekly timetable.</p>
+</div>
+<h3>Modules are missing from my timetable, who shall I contact?</h3>
+<div>
+<p>You will need to make sure your modules have been accepted on MySIS by your Advisor. If your modules have been accepted and you are still unable to access/view your modules on QM+ you will need to contact your Course Administrator.</p>
+<p>If however, your modules have not been accepted then you will need to contact the Student Enquiry Centre and they will be able to administer your modules for you. Once this has been done and you are able to view this on MySIS, the modules will soon appear on QM+.</p>
+</div>
+<h3>Are there system requirements to be able to view my timetable?</h3>
+<div>
+<p>No, you should be able to view it on all web browsers.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="Taking your monitor or other peripheral home"></a>Taking your monitor or other peripheral home</h2>
+<div id="accordion">
+<h3>Process for taking your monitor or other peripheral home during your period of working from home</h3>
+<div>
+<p>If you require to use your office monitor at home whilst you are not working in the office.</p>
+<p>Please follow these steps -</p>
+<ul>
+<li>Email the IT Service Desk (<a href="mailto:servicedesk@qmul.ac.uk">servicedesk@qmul.ac.uk</a>) requesting to take your own Monitor home. Please copy your Line Manager in on the email.</li>
+<li>In the email please include the office and desk location where your monitor is located.</li>
+<li>Please also include the Asset number from the barcode sticker on the back of the screen or device (mice or keyboards do not have an asset tag, so you do not have to include this).</li>
+<li><strong>Note</strong> - IT Service Desk will not be able to provide any Monitors or unplug your monitor on your desk.</li>
+<li>Please follow the Health &amp; Safety guidelines when moving heavy items within the workplace.</li>
+<li>
+<div>The Service Desk will raise a ticket and the details recorded against your device.</div>
+</li>
+<li>The ticket will be immediately closed but the spreadsheet will be checked once everyone returns to work.</li>
+<li>Please be aware it will be your responsibility to transport the equipment home safely &amp; return it back to your desk when you return to the office.</li>
+<li>No equipment will be replaced by IT &amp; if the equipment is damaged then this will need to be replaced from your department’s budget code.</li>
+</ul>
+<p> </p>
+<p>Please ensure you are able to disconnect and safely transport your equipment to your home address before making the request.</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<h2><a id="vdi"></a>VDI/Direct Access - Staff Only</h2>
+<div id="accordion">
+<h3>What is the difference between VDI and Direct access?</h3>
+<div>
+<p>VDI Access is a remote login to a virtual desktop which gives staff, who have been migrated to the new central Infrastructure, access to their network files and some internal applications such as MyHR and Agresso. This is ideal for off-campus access.</p>
+<p>Direct Access is an in-built facility to allow staff members using the Managed laptops access to applications whilst on and off campus. Whilst off campus you can also access MyHR and can access your G: and J: drive as you would within the university.</p>
+</div>
+<h3>Can anyone get VDI access?</h3>
+<div>
+<p>Yes, as long as you get authorisation from your Line Manager or Centre Administrator.</p>
+</div>
+<h3>I need VDI access, what details do I need to give?</h3>
+<div>
+<p>You will need to raise a ticket providing the following details:</p>
+<ul>
+<li>Authorisation email from your Line Manger/Centre Administrator</li>
+<li>Your smartphone type (Android, iOS/Apple, Windows etc.), if you do not have a smartphone we will issue you a hard token.</li>
+</ul>
+<p> </p>
+</div>
+<h3>What device can I use VDI on?</h3>
+<div>
+<p>VDI can be used on any Windows desktop/laptop and Apple Mac/laptop</p>
+</div>
+<h3>Do I have to install the VDI Horizon View Client on my personal machine to be able to work from home?</h3>
+<div>
+<p>No, installation of the client is not compulsory but is advised. You can access VDI using the following link: <a href="https://appsanywhere.qmul.ac.uk">https://qmd.qmul.ac.uk</a> and choosing VMWare Horizon View HTML Access</p>
+</div>
+</div>
+<p style="text-align: right;"><a href="#top" title="Use alt + click to follow the link">back to top</a></p>
+<p>If you are unable to find the answer you are looking for, please give us a call on 0207 882 8888, our lines are open 24/7 or <a href="http://helpdesk.qmul.ac.uk" title="Use alt + click to follow the link">raise a ticket</a>. We welcome any suggestions you may have.</p>
+</div>
+</div>

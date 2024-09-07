@@ -1,0 +1,8 @@
+Versions
+llama-index = 0.10.30
+openai = 1.23.2
+pandas = 2.2.1
+How to install:
+pip install llama-index
+pip install openai
+pip install pandas

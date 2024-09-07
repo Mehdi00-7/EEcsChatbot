@@ -1,0 +1,402 @@
+<div class="post-inner-content">
+<article class="post-76 page type-page status-publish hentry" id="post-76">
+<header class="entry-header page-header">
+<h1 class="entry-title">FAQ</h1>
+</header><!-- .entry-header -->
+<div class="entry-content">
+<h3 class="arconix-faq-term-title arconix-faq-term-faq_accounts" id="faq-faq_accounts">Accounts and authentication</h3><div class="arconix-faq-wrap" id="faq-1576"><div class="arconix-faq-title faq-closed" id="faq-I8217manewPhDStaffwheredoistart">I’m a new PhD/Staff, where do i start</div><div class="arconix-faq-content faq-closed"><h2><strong>Account</strong></h2>
+<p>As a member of EECS, you have an EECS Account, which is different to your QMUL Account. More info, <a href="http://support.eecs.qmul.ac.uk//info/eecs-username/">read here.</a></p>
+<p>To set your EECS password, either raise a <a href="https://helpdesk.qmul.ac.uk">Helpdesk Ticket</a> or visit <strong>CS327 (EECS Systems)</strong> and ask to set your EECS Account.</p>
+<p> </p>
+<h2>WiFi</h2>
+<p>You can connect to Eduroam using the same username and password as your QMUL Email account. More info, <a href="http://www.its.qmul.ac.uk/services/staff/wifi/">read here</a>.</p>
+<p> </p>
+<h2>Printing</h2>
+<p>You can connect to EECS network printers, following this guide: <a href="http://support.eecs.qmul.ac.uk//services/staff-printing/">Staff Printing</a></p>
+<p> </p>
+<h2>SSH keys</h2>
+<p>SSH keys are necessary if you want to connect to EECS servers. To setup your SSH keys, follow this guide: <a href="http://support.eecs.qmul.ac.uk//services/ssh/">SSH Keys</a></p>
+<p> </p>
+<h2>Compute Servers</h2>
+<p>You can find a list of the available compute servers in EECS, <a href="http://support.eecs.qmul.ac.uk//facilities/compute-servers/">here</a>.</p>
+<p> </p>
+<h2>Support pages</h2>
+<p>We provide Support Pages with information and tutorials about the IT Infrastructure in EECS. The page is at <a href="http://support.eecs.qmul.ac.uk">http://support.eecs.qmul.ac.uk</a></p>
+</div></div><div class="arconix-faq-wrap" id="faq-70"><div class="arconix-faq-title faq-closed" id="faq-IamanewstudentwithoutanEECSaccounthowcanIsetoneup">I am a new student without an EECS account, how can I set one up?</div><div class="arconix-faq-content faq-closed"><div class="acc_container">
+<p>You will need your EECS username and password to access PCs in the ITL. <em>(Please note: You will be able to use your central college username and password to log in to computers in the library. But you’ll need an EECS specific username and password to log in to PCs in the ITL.)</em></p>
+<p><strong>New EECS student:</strong></p>
+<p>If you are a new EECS student, its likely you’ll have been given an information sheet with your EECS username and one-off account unlocking code that lets you setup a password. This usually happens within the first few days of starting with the School of EECS. If this has not happened, please contact servicedesk@qmul.ac.uk. You will receive an email with your details as to how to set your password.</p>
+</div>
+<p><strong>Exchange Student Account:</strong></p>
+<p>If you are a new EECS exchange student, your EECS username will be emailed to you. This will allow you using the one-time unlocking code to set your password. This usually happens within the first few days of starting with the School of EECS. If this has not happened, please contact servicedesk@qmul.ac.uk.</p>
+<div class="acc_container">
+<p><strong>Forgotten EECS username (or password):</strong></p>
+<p>If you are unable to login to the ITL machines because you’ve forgotten your EECS username or password, please approach the ITL helpdesk (middle floor ITL) or CS 327 to retrieve information or reset password. <strong>Please bring your ID card to avail this service.</strong></p>
+</div>
+</div></div><div class="arconix-faq-wrap" id="faq-214"><div class="arconix-faq-title faq-closed" id="faq-ForgotmyEECSCollegeaccountpasswordhowdoIresetit">Forgot my EECS/College account password, how do I reset it?</div><div class="arconix-faq-content faq-closed"><p><strong>EECS password</strong></p>
+<p>If you can’t remember your EECS password, then please raise a <a href="https://helpdesk.qmul.ac.uk">Helpdesk Ticket</a>. You will receive an One-Time Unlocking code and instructions how to reset your password. Alternatively, visit the ITL Helpdesk (ITL 1st floor) or the Systems’ Office (CS327) with your ID Card.</p>
+<p><strong>ITS password</strong></p>
+<p>If you can’t remember your QMUL password (used for Email, etc),  follow the instructions on the <a href="https://www.its.qmul.ac.uk/support/self-help/self-service-password-reset/">PRM page</a><del>, or alternatively, head to the IT Services at Queens building, Room W209, with your ID card.</del></p>
+</div></div><div class="arconix-faq-wrap" id="faq-241"><div class="arconix-faq-title faq-closed" id="faq-HowdoIaddsomeonetoanEECSmailinglist">How do I add someone to an EECS mailing list?</div><div class="arconix-faq-content faq-closed"><p>Go to <a href="http://www.eecs.qmul.ac.uk/mailman">http://www.eecs.qmul.ac.uk/mailman</a></p>
+<ol>
+<li>Select the relevent mailing list from the table</li>
+<li>Get user to enter their details</li>
+<li>Click subscribe</li>
+</ol>
+<p>* If the list you are looking for is not on the mailman page try search the QMUL mailing lists at <a href="http://www.lists.qmul.ac.uk/">http://www.lists.qmul.ac.uk/</a></p>
+</div></div><div class="arconix-faq-wrap" id="faq-1497"><div class="arconix-faq-title faq-closed" id="faq-What8217smyEECSusername">What’s my EECS username?</div><div class="arconix-faq-content faq-closed"><p>… and what’s the difference with my QMUL username?</p>
+<p>The following article explains it: <a href="http://support.eecs.qmul.ac.uk//info/eecs-username/">http://support.eecs.qmul.ac.uk/info/eecs-username/</a></p>
+</div></div><h3 class="arconix-faq-term-title arconix-faq-term-faq_equip" id="faq-faq_equip">Equipment (desktop/server)</h3><div class="arconix-faq-wrap" id="faq-361"><div class="arconix-faq-title faq-closed" id="faq-ManagedandSelf-manageddesktops8211whatarethey">Managed and Self-managed desktops – what are they?</div><div class="arconix-faq-content faq-closed"><p>Your systems team usually provide you with a managed dual boot (Windows 10/Centos 7) desktop. If you would rather manage your own machine we give you an entry in our DHCP server so your machine gets an IP address on the “self managed” network and that’s pretty much it.  This setup gives you great flexibility but please note:</p>
+<ul>
+<li>For security reasons there is no access to any file servers on that network so you don’t have direct access to your home directory or the /import drives.</li>
+<li>Likewise there is no remote access to machines on that network. The incoming firewall is <em>very</em> restrictive.</li>
+<li>All data backup is entirely your responsibility, unlike managed machines we don’t copy your home dir to tape daily.</li>
+<li>It’s not currently possible to run software that needs to communicate with EECS licence servers on self-managed machines.</li>
+<li>We don’t have the resources to help you install machines on the self-managed network – Google is (hopefully) your friend.</li>
+</ul>
+</div></div><div class="arconix-faq-wrap" id="faq-1261"><div class="arconix-faq-title faq-closed" id="faq-Whatisa8216loginserver8217">What is a ‘login server’?</div><div class="arconix-faq-content faq-closed"><p>‘Login servers’ are virtual servers, that act as proxy servers, which can be used to access EECS Desktops and Servers from outside Queen Mary University or via Eduroam.</p>
+<p>For example, if you want to access the grunt-server ‘london’ from home, you must SSH into the research ‘login server’ first, and then ‘hop’ onto ‘london’.</p>
+<div class="alert alert-danger">  The login servers SHOULD NOT be used for compute-intensive jobs! </div>
+ 
+<p>Currently we have the following login servers:</p>
+<ul>
+<li><strong>frank.eecs.qmul.ac.uk</strong>: access for staff, guests and PhD students, located on the research network</li>
+</ul>
+<p> </p>
+<p>The following video explains it better:</p>
+<div class="arve-wrapper" data-mode="normal" data-provider="youtube" id="arve-7GFNbg-jE6w" itemscope="" itemtype="http://schema.org/VideoObject" style="max-width:648px;"><div class="arve-embed-container" style="padding-bottom:56.250000%"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="arve-iframe fitvidsignore" frameborder="0" height="270" name="" sandbox="allow-scripts allow-same-origin allow-presentation allow-popups" scrolling="no" src="https://www.youtube-nocookie.com/embed/7GFNbg-jE6w?iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;autohide=1&amp;playsinline=1&amp;autoplay=0" width="480"></iframe></div></div>
+<p> </p>
+<p> </p>
+</div></div><h3 class="arconix-faq-term-title arconix-faq-term-faq_login" id="faq-faq_login">Login Issues</h3><div class="arconix-faq-wrap" id="faq-244"><div class="arconix-faq-title faq-closed" id="faq-MyhomedirectoryisfulloffilescalledcorennnnndoIneedthem">My home directory is full of files called core.nnnnn, do I need them.</div><div class="arconix-faq-content faq-closed"><p>No, you don’t (probably). They’re core dump files, if this means nothing to you then don’t worry about them – just delete them to reclaim space.<br/>
+If the name does mean something to you please let the systems team know which program(s) is/are dumping core regularly so we can have a look at it/them.</p>
+</div></div><div class="arconix-faq-wrap" id="faq-246"><div class="arconix-faq-title faq-closed" id="faq-Iwassuddenlylockedoutofmyprofilewhathappenstomywork">I was suddenly locked out of my profile, what happens to my work?</div><div class="arconix-faq-content faq-closed"><p>There is currently an issue where profiles get locked out suddenly when using VMware. We are looking at fixing this issue soon. Meanwhile, if you are locked out of your account due to VMware or any other unforseen circumstance, its likely you are worried about your work.</p>
+<p>Just to be sure to not lose your data at any point:</p>
+<ul>
+<li> Backup your work regularly.</li>
+<li>Save all files/documents in your home directory only. All files saved in your home directory will be synced automatically. Its good practice and always recommended to save all your work in your home directory as opposed to saving it in Desktop/Documents.</li>
+</ul>
+</div></div><div class="arconix-faq-wrap" id="faq-248"><div class="arconix-faq-title faq-closed" id="faq-UnabletologintoPCWindows8211ProfilestoragespaceexceededwhatcanIdo">Unable to login to PC [Windows – Profile storage space exceeded], what can I do?</div><div class="arconix-faq-content faq-closed"><p>If you are unable to login to college machines using your EECS credentials, the issue is most likely that you have exceeded your profile/file server storage limit. Your Profile will stop syncing if quota is exceeded. To prevent exceeding your profile quota limit, make sure to move files to your home directory instead of just leaving it around in Desktop or Downloads or elsewhere. Read on for what you can do if your profile quota has exceeded.</p>
+<p><strong>Note:</strong><em> If you’ve exceeded your file server storage space, then you’d have to contact ITL helpdesk or systems office at CS327 for fixes. But before that, read here about <a href="http://support.eecs.qmul.ac.uk//computing-facilities/login-problems/">Login/Profile</a> problems. </em></p>
+<p><strong>Fix profile quota excess:</strong></p>
+<p>Users have seperate space allocated for Windows profiles which has limited space. Please note that this is completely separate from your home directory (H drive). You will need to move or delete large files from your profile. Usually most of these will be in the Desktop or Downloads folders. You can easily find where the largest files are in your profile by clicking on the red cross in the bottom right taskbar icon. If you have exceeded your profile quota you will get the following message below, roughly every 5-10 minutes.</p>
+<p><img alt="profilespace.png" height="471" src="http://services.eecs.qmul.ac.uk/files/5213/9230/1259/profilespace.png" width="548"/></p>
+<p>You will see a window with a list of files ordered largest first. You should move or delete these files.</p>
+<p><img alt="profilespace-filelist.png" height="404" src="http://services.eecs.qmul.ac.uk/files/1013/9230/8690/profilespace-filelist.png" width="448"/></p>
+<p>The red cross should then change to a blue screen icon showing available free space, as below. You can now log off and your files will be synced with the server copy of the profile.</p>
+<p><img alt="profilespace-blueicon.png" height="309" src="http://services.eecs.qmul.ac.uk/files/4613/9230/1896/profilespace-blueicon.png" width="368"/></p>
+<p><strong>NOTE: If you log off before freeing space your profile will not be synced with the server copy and will stay on that machine</strong></p>
+</div></div><h3 class="arconix-faq-term-title arconix-faq-term-login-problems-and-file-space-problems" id="faq-login-problems-and-file-space-problems">Login Problems and file-space problems</h3><div class="arconix-faq-wrap" id="faq-227"><div class="arconix-faq-title faq-closed" id="faq-TroubleusingprintersintheITLwhatcanIdo">Trouble using printers in the ITL, what can I do?</div><div class="arconix-faq-content faq-closed"><p><strong>Please Note:</strong> The following answer holds good assuming you tried issuing print from a school machine and not one of your personal devices.</p>
+<p>In the ITL, print jobs issued from the school machines are served by the release stations in different floors. Go to the release station adjoining the printer to which you issued the print job, and swipe your id card. Should you have sufficient print balance left on your card, you’ll be presented with an option to release your print job to the printing queue. Once this is done, please wait for a few minutes to collect the print outs (more so, if you tried printing a lengthy document).</p>
+<p>As a general suggestion, before issuing any bulk print job, we recommend starting off with a few pages to check if printing works fine.</p>
+<p>If none of the above solutions work for you, please contact ITL helpdesk (middle floor ITL) for support.</p>
+</div></div><div class="arconix-faq-wrap" id="faq-229"><div class="arconix-faq-title faq-closed" id="faq-SetupremoteprintingonpersonallaptopWindows">Setup remote printing on personal laptop (Windows)?</div><div class="arconix-faq-content faq-closed"><p><strong><strong><strong>NOTE</strong>: </strong></strong>you must be logged in to eduroam using your eecs credentials for remote/wireless printing</p>
+<p>Currently, it is <strong>NOT</strong> possible to setup remote printing on machines running <strong>Windows 8</strong>. If this is the case, we recommend printing using one of the school machines.</p>
+<p>Machines running Windows 7 require Printer Credential Configuration to be setup for wireless printing. Steps for doing this:</p>
+<p>1. In the Windows Start menu, search for “credential manager” and open Credential Manager<br/>
+2. Select “Add a Windows Credential”<br/>
+3. Enter the network address and credentials as shown below:<br/>
+<strong>For Students</strong><br/>
+Internet or network address (e.g., myserver, server.company.com): <strong>laptopprint.student.eecs.qmul.ac.uk</strong><br/>
+Username: <strong>STUDENT\your</strong><strong>_eecs_username</strong><br/>
+Password: <strong>your_eecs_password</strong></p>
+<p><strong>For Staff/Phd</strong><br/>
+Internet or network address (e.g., myserver, server.company.com): <strong>laptopprint.eecs.qmul.ac.uk</strong><br/>
+Username: <strong>your</strong><strong>_eecs_username</strong><br/>
+Password: <strong>your_eecs_password</strong><br/>
+4. Click “OK” Your credentials for accessing Student/Staff printing will now be stored on your system</p>
+<p>Steps for adding printer:</p>
+<p>1. In the Windows Start menu, search for ‘Devices and Printers’ and open Devices and Printers<br/>
+2. Click on ‘<span class="ui">Add a printer</span>‘<br/>
+3. In the Add Printer wizard, click on ‘<span class="ui">Add a network, wireless or Bluetooth printer</span>‘<br/>
+4. In the list of available printers, select the one you want to use and click ‘<span class="ui">Next</span>‘<br/>
+[4.a] If the printer you want isn’t listed by default, then click on ‘The printer that I want wasn’t listed’, and then click ‘Next’<br/>
+[4.b] Click on ‘Select a shared printer by name’ and enter the printername in the following format: \\computername\printername. E.g., \\laptopprint.student.eecs.qmul.ac.uk\eecslabblack (for students) or \\laptopprint.eecs.qmul.ac.uk\eecsstaff (for staff/PhD)<br/>
+5. Complete the additional steps in the wizard, and then click <span class="ui">Finish</span>.</p>
+</div></div><div class="arconix-faq-wrap" id="faq-232"><div class="arconix-faq-title faq-closed" id="faq-SetupremoteprintingonpersonallaptopMac">Setup remote printing on personal laptop (Mac)?</div><div class="arconix-faq-content faq-closed"><p>NOTE: you must be logged in to eduroam using your eecs credentials for remote/wireless printing</p>
+<p>Detailed method (for Mac OS version 10.5 or later):</p>
+<p>1. Choose System Preferences from the Apple menu<br/>
+2. Choose Printers &amp; Scanners from the View menu<br/>
+3. Click the + button to add a printer<br/>
+4. Press the Control key while clicking the Default icon (or any other icon on the toolbar), then choose Customize Toolbar from the contextual menu that appears<br/>
+5. Drag the Advanced (gear) icon to the toolbar<br/>
+6. Click Done<br/>
+7. Click the Advanced icon that was added to the toolbar<br/>
+8. Choose Windows printer via spoolss from the Type pop-up menu<br/>
+9. In the URL field, type the computer name and the printer name in the format: smb://computername/printername. E.g., smb://laptopprint.student.eecs.qmul.ac.uk/eecslabblack (for students) [or] smb://laptopprint.eecs.qmul.ac.uk/eecsstaff (for staff).<br/>
+10. In the Name field, type the name you would like to use for this printer in Mac OS X<br/>
+11. Choose the appropriate PPD or printer driver from the Use pop-up menu<br/>
+12. Click Add<br/>
+13. Once the printer has been added successfully, you might have to enter your eecs username and password if prompted when trying to print in the following format:</p>
+<p>For Students<br/>
+Username: STUDENT\your_eecs_username<br/>
+Password: your_eecs_password</p>
+<p>For Staff/Phd<br/>
+Username: your_eecs_username<br/>
+Password: your_eecs_password</p>
+<p>Simple method:</p>
+<p>1. Select Print from the File menu<br/>
+2. Select Nearby Printers from the Printer Menu<br/>
+3. Choose the printer you want to. E.g., eduroam-eecslabblack (for students) or eduroam-eecsstaff (for staff/PhD)<br/>
+4. A prompt will appear to confirm printer setup. Click OK<br/>
+5.  Once the setup is successful, you’ll be able to print using the chosen printer on eduroam</p>
+[Tip] Choose to remember your eecs credentials in your keychain to skip having to enter them everytime you try to print.
+</div></div><div class="arconix-faq-wrap" id="faq-235"><div class="arconix-faq-title faq-closed" id="faq-SetupremoteprintingonpersonallaptopUbuntu">Setup remote printing on personal laptop (Ubuntu)?</div><div class="arconix-faq-content faq-closed"><p>NOTE: you must be logged in to eduroam using your eecs credentials for remote/wireless printing</p>
+<p>1. Navigate to System Settings -&gt; Printers<br/>
+2. Click Add<br/>
+3. In the left pane, select Network Printer, followed by Windows printer via SAMBA<br/>
+4. In the right pane enter the printer address (URI) as smb://laptopprint.student.eecs.qmul.ac.uk/eecslabblack (for students) [or] as smb://laptopprint.eecs.qmul.ac.uk/eecsstaff (for staff/PhDs)<br/>
+5. Select Set authentication details now and enter your EECS credentials (in the below format) and Click Forward</p>
+<p>For Students<br/>
+Username: STUDENT\your_eecs_username<br/>
+Password: your_eecs_password</p>
+<p>For Staff/Phd<br/>
+Username: your_eecs_username<br/>
+Password: your_eecs_password</p>
+<p>6. At the Choose Driver prompt, choose Select printer from database, followed by selecting Generic and click Forward<br/>
+7. At the following prompt (for Models) choose PostScript Printer on the left menu, followed by choosing Generic Postscript Printer Foomatic/Postscript on the right menu. Click Forward<br/>
+8. At the Describe Printer prompt, enter a suitable printer name and description for identification purposes. Click Apply<br/>
+9. The printer you just added will now be listed in your system Printing Menu</p>
+</div></div><div class="arconix-faq-wrap" id="faq-237"><div class="arconix-faq-title faq-closed" id="faq-Unabletoprintfromlaptopssuddenly">Unable to print from laptops suddenly?</div><div class="arconix-faq-content faq-closed"><p>If you are unable to print from your personal laptops suddenly, the issue is most likely to be: </p>
+<p>1. Unstable eduroam connection. You need to be logged in to eduroam using your eecs credentials to avail remote printing srevices. But sometimes, when there is an unstable eduroam connection, remote printing may not work. If this is the case, we recommend trying to print after eduroam becomes stable. </p>
+<p>2. Insufficient print balance. Your eecs account doesn’t have sufficient print balance (you’ll most likely be notified of this in the print release stations). If this is the case, top up your account balance and you’ll be able to continue printing as normal. If staff/PhD students face this issue, please get in touch with systems(CS327).</p>
+</div></div><div class="arconix-faq-wrap" id="faq-239"><div class="arconix-faq-title faq-closed" id="faq-UnabletoaccessstudentdatabaseservicesOraclePostgresMySQLetc">Unable to access student database services (Oracle, Postgres, MySQL etc.)?</div><div class="arconix-faq-content faq-closed"><p>There are usually two reasons for difficulties in accessing the database services (Postgres, mysql, Oracle etc.)</p>
+<p>Reason 1: Wrong username and/or password. You will not be able to gain access to the database if you are using a wrong username and password combination. You will be able to find the correct username and password by logging on to webprojects.eecs.qmul.ac.uk. In there, your username and password will be specified just below the database service you are looking for. </p>
+<p>Reason 2: You do not have database access configured. You can raise a request to configure MySQL/Postgres/Oracle by logging into webprojects.eecs.qmul.ac.uk –&gt; Your account status. Once you’ve rasied a request, it usually takes some time for the database configuration to be complete and access granted.</p>
+<p>If none of these two options work, please contact the ITL helpdesk.</p>
+</div></div><div class="arconix-faq-wrap" id="faq-250"><div class="arconix-faq-title faq-closed" id="faq-What8217smydiskusageHowcaniclearsomespace">What’s my disk usage? How can i clear some space?</div><div class="arconix-faq-content faq-closed"><p>The following instructions are Linux-based commands, which you can use either on an EECS Linux Desktop/Server or on a ‘<a href="http://support.eecs.qmul.ac.uk//faq/what-is-a-login-server/">login server</a>‘.</p>
+<h3>Disk quota</h3>
+<p>In Linux, you can use the <code>quota</code> command to display your current quota usage:</p>
+<pre>[-bash-4.1]$ quota -s
+Disk quotas for user jdoe123 (uid 012345):
+     Filesystem   space   quota   limit   grace   files   quota   limit   grace
+stilton:          <strong>4500M</strong>*  <strong>4000M</strong>    <strong>5000M</strong>   30      <strong>215k</strong>    0       0 
+/export/user10
+</pre>
+<p><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;">Here’s a quick explanation of these numbers:</span></p>
+<ul>
+<li><strong>space</strong>*: Your home directory is currently 4,4GB big. The asterisk <code>*</code> next to it means that you are exceeding the allocated ‘soft limit’ for your user, which is explained next.</li>
+<li><strong>quota</strong>:  This is the ‘soft limit’ for your user. If you have exceeded that limit, you must clear some files from your home directory before the ‘grace period’ expires.</li>
+<li><strong>limit</strong>: This is the ‘hard limit’. If you exceed that limit, you will not be able to create any new files. This will lead to a situation where you will not be able to log into a Linux desktop.</li>
+<li><strong>grace</strong>: The grace period, before the end of which you must clear some files from your home directory, if you have exceeded your ‘soft limit’.</li>
+<li><strong>files</strong>: The number of the files in your home directory.</li>
+</ul>
+<h3>Disk usage</h3>
+<p>You can use the linux command <code>du</code> (Disk Usage) is very handy for tracking down files that consume large amounts of space in your home directory. Each user group (Students — UGs/PGs and Staff/PhD) have different allowances for disk quota.</p>
+<p>To list the total disk usage in a human readable-format (i.e., size specified in K/MB etc.), type ‘du -sh’ :</p>
+<div>
+<pre>
+[-bash-4.1]$ du -sh
+60M
+</pre>
+</div>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>To list a summary of top-level directories and their space consumption, type ‘du -sh * ‘:</li>
+</ul>
+</li>
+</ul>
+<div>
+<pre>[-bash-4.1]$ du -sh *
+32K My Documents
+432K profile
+59M public_html
+</pre>
+</div>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>To order directories by their space consumption (largest first), type ‘du -sh * | sort -rh’ :</li>
+</ul>
+</li>
+</ul>
+<div>
+<pre>
+[-bash-4.1]$ du -sh * | sort -rh
+59M public_html
+432K profile
+32K My Documents
+</pre>
+</div>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>To list all entries (and their space consumption) in an ordered format, type ‘du -ch * | sort -rh’ :</li>
+</ul>
+</li>
+</ul>
+<div>
+<pre>[-bash-4.1]$ du -ch * | sort -rh
+60M    total
+59M    public_html
+58M    public_html/Media
+524K    public_html/Publications_files
+432K    profile
+380K    public_html/Scripts
+</pre>
+</div>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>To show the time of last modifcation of any file in the respective directories, type ‘du –time -sh * | sort -rh’:</li>
+</ul>
+</li>
+</ul>
+<div>
+<pre>[-bash-4.1]$ du --time -sh * | sort -rh</pre>
+<p>59M    2013-11-29 12:55    public_html<br/>
+432K    2012-06-27 16:40    profile<br/>
+32K    2010-10-14 17:53    My Documents</p>
+</div>
+<p>Further Reading: To learn more about the du command and its extensive usage options, type <strong>‘man du’ </strong></p>
+</div></div><h3 class="arconix-faq-term-title arconix-faq-term-faq_programming" id="faq-faq_programming">Programming Issues</h3><div class="arconix-faq-wrap" id="faq-253"><div class="arconix-faq-title faq-closed" id="faq-WhenItrytocodeI8217vecompiledusinggccIgeta8216commandnotfound8217error">When I try to code I’ve compiled using gcc I get a ‘command not found’ error.</div><div class="arconix-faq-content faq-closed"><p>Given no flags to tell it what output file to create gcc will create a file called a.out in the working (i.e. current) directory. Assuming that the working directory is in your path then</p>
+<pre>it023:~&gt; gcc simple.c
+it023:~&gt; a.out
+
+will work, if the working directory is NOT in your path then you have to tell the shell where the a.out file is for it to run it.
+
+it023:~&gt; gcc simple.c
+it023:~&gt; ./a.out
+
+If you want to name the file something else then tell gcc:
+
+it023:~&gt; gcc simple.c  -o simple
+it023:~&gt; ./simple</pre>
+</div></div><div class="arconix-faq-wrap" id="faq-255"><div class="arconix-faq-title faq-closed" id="faq-compilingCcodeproducesanerror8220somefilehNosuchfileordirectory8221Why">compiling C code produces an error: “somefile.h: No such file or directory”. Why?</div><div class="arconix-faq-content faq-closed"><p>The error occurs if a header file is not present in the standard include file directories used by <code>gcc/g++/nvcc etc.</code> A similar problem can occur for libraries:</p>
+<pre class="example">/usr/bin/ld: cannot find <var>library</var>
+</pre>
+<p>This happens if a library used for linking is not present in the standard library directories.</p>
+<p>By default, <code>gcc</code> based compilers search the following directories for header files:</p>
+<pre class="example">/usr/local/include/
+/usr/include/
+</pre>
+<p>and the following directories for libraries:</p>
+<pre class="example">/usr/local/lib/
+/usr/lib/
+</pre>
+<p>The list of directories for header files is often referred to as the <em>include path</em>, and the list of directories for libraries as the <em>library search path</em> or <em>link path</em>.</p>
+<p>The directories on these paths are searched in order, from first to last in the two lists above. For example, a header file found in <tt>‘/usr/local/include’</tt> takes precedence over a file with the same name in <tt>‘/usr/include’</tt>. Similarly, a library found in <tt>‘/usr/local/lib’</tt> takes precedence over a library with the same name in <tt>‘/usr/lib’</tt>.</p>
+<p>When additional libraries are installed in other directories it is necessary to extend the search paths, in order for the libraries to be found. The compiler options <code>-I</code> and <code>-L</code> add new directories to the beginning of the include path and library search path respectively.</p>
+<p>For example compiling the “test.cc” code below:</p>
+<pre>#include &lt;stdlib.h&gt;
+#include &lt;stdio.h&gt;
+#include "cuda_runtime.h"
+int main(void)
+{
+  int num_elements = 16;
+  int num_bytes = num_elements * sizeof(int);
+
+  int *device_array = 0;
+  int *host_array = 0;
+
+  host_array = (int*)malloc(num_bytes);
+  cudaMalloc((void**)&amp;device_array, num_bytes);
+  cudaMemset(device_array, 0, num_bytes);
+  cudaMemcpy(host_array, device_array, num_bytes, cudaMemcpyDeviceToHost);
+  for(int i = 0; i &lt; num_elements; ++i)
+    printf("%d", host_array[i]);
+  free(host_array);
+  cudaFree(device_array);
+  return 0;
+}
+</pre>
+<p> </p>
+<p>With “nvcc test.cc -o testcode” will produce:</p>
+<p>test.cc:3:26: error: cuda_runtime.h: No such file or directory<br/>
+test.cc: In function ‘int main()’:<br/>
+test.cc:13: error: ‘cudaMalloc’ was not declared in this scope<br/>
+test.cc:14: error: ‘cudaMemset’ was not declared in this scope<br/>
+test.cc:15: error: ‘cudaMemcpyDeviceToHost’ was not declared in this scope<br/>
+test.cc:15: error: ‘cudaMemcpy’ was not declared in this scope<br/>
+test.cc:19: error: ‘cudaFree’ was not declared in this scope</p>
+<p>With “nvcc test.cc -I/usr/local/cuda-5.5/include -o test” will produce:</p>
+<p>/usr/bin/ld: cannot find -lcudart_static<br/>
+collect2: ld returned 1 exit status</p>
+<p>With “nvcc test.cc -I/usr/local/cuda/include -L/usr/local/cuda/targets/x86_64/lib -o test”<br/>
+will WORK!</p>
+</div></div><h3 class="arconix-faq-term-title arconix-faq-term-faq_software" id="faq-faq_software">Software and licensing</h3><div class="arconix-faq-wrap" id="faq-258"><div class="arconix-faq-title faq-closed" id="faq-AccesstoMicrosoftDreamSpark">Access to Microsoft DreamSpark</div><div class="arconix-faq-content faq-closed"><p>Access to Microsoft DreamSpark can be requested from the college. Please send a request to ITS helpdesk at its-helpdesk@qmul.ac.uk.</p>
+</div></div><div class="arconix-faq-wrap" id="faq-260"><div class="arconix-faq-title faq-closed" id="faq-CanyouIinstallMatlabonmymachine">Can you/I install Matlab on my machine?</div><div class="arconix-faq-content faq-closed"><p>In general if you’re an academic, RA or PhD student the answer is “yes”, irrespective of whether the machine is yours or provided by the college.</p>
+<p>If you’re a taught student we don’t have the required licence to install Matlab on your personal equipment, however Matlab is provided in all EECS labs, on bert and on the <a href="http://services.eecs.qmul.ac.uk/systems/remote/dlrds">student remote desktop service</a>  (project students only).</p>
+</div></div><div class="arconix-faq-wrap" id="faq-262"><div class="arconix-faq-title faq-closed" id="faq-HowtosetupsshkeysonLinuxUnix">How to setup ssh keys on Linux/Unix?</div><div class="arconix-faq-content faq-closed"><p>You can speed up the login process to a remote host by setting up ssh keys to identify your local host (i.e., the computer you are sitting in front of) as a trusted computer for the remote host.</p>
+<p>1. Open Terminal<br/>
+2. Type <strong>ssh-keygen</strong><br/>
+3. Press ‘Enter’ when prompted for ‘Enter file in which to save the key (/home/you/.ssh/id_rsa)<br/>
+4. Type a ‘Passphrase’ when prompted<br/>
+5. You’ll now have the ssh keys generated and saved in /home/you/.ssh/id_rsa.pub<br/>
+6. Copy the newly generated public key to the intended remote host using the following command:<br/>
+<strong>ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host</strong><br/>
+In the command, remote-host is the servername of the remote host you’d like to access. E.g., bert.student.eecs.qmul.ac.uk (for students) or frank.eecs.qmul.ac.uk (for staff/PhD)<br/>
+7. Enter password for logging into the remote host<br/>
+8. Your computer (i.e., local host) will now be identified as a trusted source in the remote host. Going forward, you can login to the remote host by typing <strong>ssh remote-host</strong> in terminal, followed by providing your passphrase</p>
+<p>Please see <a href="http://support.eecs.qmul.ac.uk//computing-facilities/remote-access/ssh-keys/#linux" target="_blank" title="ssh-keygen">here</a> for detailed information on the usage of ssh-keygen and ssh-copy-id commands</p>
+<p><strong>Note:</strong> These are instructions for Linux/Unix machines, for Windows see this instead — <a href="http://support.eecs.qmul.ac.uk//computing-facilities/remote-access/ssh-keys/#windows">FAQ on ssh key generation in Windows</a></p>
+</div></div><div class="arconix-faq-wrap" id="faq-264"><div class="arconix-faq-title faq-closed" id="faq-HowtosetupPuTTYandconfiguresessionsonWindows">How to setup PuTTY (and configure sessions) on Windows?</div><div class="arconix-faq-content faq-closed"><p>1. Download the PuTTY installer from <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">here</a> (Make sure you grab the latest stable release from under <em><strong>Binaries &gt;&gt; A windows isntalled for everything except PuTTYtel</strong></em>. The file will be named something like putty-0.63-installer.exe).<br/>
+2. Run the PuTTY installer (double click on the installer icon) once download is complete<br/>
+3. You will be greeted with a welcome dialog, click ‘Next’ to proceed<br/>
+4. Select a directory (or use the default directory) to install PuTTY. Click ‘Next’ to proceed<br/>
+5. Use the option provided by default to put PuTTY on the Start Menu. Click ‘Next’ to proceed<br/>
+7. You will be asked addtional questions. You can choose to have an icon placed on your desktop or on the Panel as a quick start button for easier access to PuTTY. Leave the option for associating .ppk files checked. Click ‘Next’ to proceed<br/>
+8. PuTTY is now ready to install. Click ‘Install’ to proceed</p>
+<p>Please see <a href="http://services.eecs.qmul.ac.uk/systems/remote/sshclients2" title="PuTTY">here</a> for detailed instructions (with screenshots)</p>
+<p><strong>How to configure a PuTTY session to connect to a remote server?</strong><br/>
+1. Launch PuTTY<br/>
+2. Under the <strong>Host Name (or IP address) </strong>enter the servername you wish to connect to. E.g., bert.student.eecs.qmul.ac.uk (for students) frank.eecs.qmul.ac.uk (staff/PhD). For <strong>Protocol</strong>, select the SSH radio button option. Click ‘Open’<br/>
+3. If this is the first time you are connecting to a server, a security alert will show up. Click ‘Yes’ to continue<br/>
+4. You will be prompted with an ssh login window to enter authorization credentials (i.e., your EECS username and password) to connect to the server. Enter credentials to proceed.</p>
+<p>Please see <a href="http://services.eecs.qmul.ac.uk/systems/remote/sshclients2" title="PuTTY">here</a> for detailed instructions (with screenshots)</p>
+<p>Suggested read: This <a href="http://services.eecs.qmul.ac.uk/systems/faq?faq=21">FAQ on PuTTYgen</a> (for ssh key generation on Windows) and this <a href="http://services.eecs.qmul.ac.uk/systems/faq?faq=22">FAQ on using ssh keys with PuTTY</a></p>
+</div></div><div class="arconix-faq-wrap" id="faq-266"><div class="arconix-faq-title faq-closed" id="faq-HowtogeneratesshkeysusingPuTTYgen">How to generate ssh keys using PuTTYgen?</div><div class="arconix-faq-content faq-closed"><p>1. Launch PuTTYgen client (open if application is present already or download it from <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">here</a>).<br/>
+2. Choose ‘<strong>SSH-2 RSA’</strong> for <em>‘Type of key’</em> and type <strong>‘2048’ </strong>for <em>‘Number of bits</em>‘. Click ‘Generate’.<br/>
+3. In the next step, move your mouse cursor over the blank area to complete the key generation process.<br/>
+4. Next, you will see a window with your new public key and key fingerprint.<br/>
+5. Type a suitable ‘Key comment’ to identify your key (e.g.,).<br/>
+6. Type a ‘Key passphrase’ and reconfirm it.<br/>
+7. Save your public key in a suitable place with a suitable filename and extension (e.g., pub_key.txt)<br/>
+8. Save your private key in the same place as that of your public key. You are free to use whatever filename you want, but retain the .ppk extension as it is (e.g., pri_key.ppk)<br/>
+9. Copy and paste the entire contents of your public key (can be found in the large text box below ‘Public key for pasting into OpenSSH authorized_keys file’) into a notepad using a suitable file name with .txt extension (e.g., publickey.txt). This will come handy when associating your public key to a remote-host. See FAQ on ‘How to use ssh keys with PuTTY’<br/>
+Please see <a href="http://support.eecs.qmul.ac.uk//computing-facilities/remote-access/ssh-keys/#windows" target="_blank" title="PuTTYgen">here</a> for detailed instructions (with screenshots)</p>
+</div></div><div class="arconix-faq-wrap" id="faq-268"><div class="arconix-faq-title faq-closed" id="faq-HowtousesshkeyswithPuTTY">How to use ssh keys with PuTTY?</div><div class="arconix-faq-content faq-closed"><p>Note: The steps below will help you to use ssh keys with PuTTY. If you are unsure of how to generate ssh keys using PuTTYgen, you may want to start with this FAQ instead.</p>
+<p>1. Launch PuTTY<br/>
+2. Navigate to Categories &gt;&gt; Connection &gt;&gt; Auth<br/>
+3. Browse to look for the private key (pri_key.ppk) saved on your computer when generating ssh keys using PuTTYgen. Click ‘Open’ to upload the key<br/>
+4. Navigate to Categories &gt;&gt; Session &gt;&gt; Enter name of the remote-host you’d like to connect to (e.g., bert.student.eecs.qmul.ac.uk) and click ‘Open’<br/>
+5. Enter your EECS username and password credentials to login to the remote-host<br/>
+6. Connection to the remote host should have been established now. In the remote host terminal, type ‘vim .ssh/authorized_keys’ to open the list of authorized_keys in the remote-host<br/>
+7. To this file, copy and paste the entire contents of your public key (saved to your computer when generating ssh keys using PuTTYgen)<br/>
+8. Save and close the authorized_keys file. Log out of the remote-host. Close PuTTY.<br/>
+Going forward, you’d be able to login to the remote-host just by entering your username and passphrase (set-up when generating ssh keys).</p>
+<p>Please see <a href="http://support.eecs.qmul.ac.uk//computing-facilities/remote-access/ssh-keys/#windows">here</a> for detailed instructions.</p>
+</div></div><div class="arconix-faq-wrap" id="faq-270"><div class="arconix-faq-title faq-closed" id="faq-SetupOpenVPNconnectiononWindows">Setup OpenVPN connection on Windows</div><div class="arconix-faq-content faq-closed"><p>1. Download a suitable Windows OpenVPN installer: <a href="https://intranet.eecs.qmul.ac.uk/openvpn-clients/" target="_blank">Staff/PhD</a> (or) <a href="http://services.eecs.qmul.ac.uk/systems/certifydownloads" target="_blank">Students</a><br/>
+[<strong>Important note for Staff/PhD:</strong> You’ll have to be on eduroam to download the installers, meaning you’ll have to download them when you are in campus]
+2. Once download is complete, double click on the .exe file to launch the installer. Click ‘Next’<br/>
+3. Accept the License Agreement. Click on ‘I Agree’<br/>
+4. By default, there is a selection of components to be installed. Leave this selection intact and click ‘Next’<br/>
+5. The default installation location is usually set to C:\Program Files\OpenVPN. Leave intact and click ‘Install’<br/>
+6. Wait while OpenVPN gets installed…<br/>
+7. When installation is underway, you might get a Windows Security popup. Click ‘Install’<br/>
+8. When installation is complete, click ‘Next’<br/>
+9. Click ‘Finish’<br/>
+10. Double click on the OpenVPN GUI shortcut on your desktop<br/>
+11. [Optional] You may be prompted to enter Administrator username and password. If you do not have Administrator access to the machine on which you are trying to setup OpenVPN, you may have to sort this out before proceeding further.<br/>
+12. [Optional] You may be prompted to enter a Network username and password.<br/>
+13. Now go to the systems tray (bottom-right corner of your Windows Desktop), and you’ll find an OpenVPN GUI icon<br/>
+14. Right click on the icon, and depending upon whether you are a Staff/PhD [or] Student [or] GP, you’ll have different options to connect to OpenVPN profiles.<br/>
+E.g., Staff/PhD have three options — ‘eecs-staff-full’ or ‘eecs-staff-plusdns’ or ‘eecs-staff’. Choose <strong>eecs-staff</strong> and click ‘Connect’. <em>[<strong>Note for Staff/PhD:</strong> Use eecs-staff-full only if you are interested in using Central College Services]</em><br/>
+15. Enter your EECS username and password when prompted and click ‘OK’ to complete OpenVPN connection<br/>
+16. Once you are connected through OpenVPN, you can proceed to use Remote Desktop Connection to access a school managed PC or visit sites that only work on the college network (e.g., Apple education store)</p>
+</div></div><div class="arconix-faq-wrap" id="faq-272"><div class="arconix-faq-title faq-closed" id="faq-SetupOpenVPNconnectiononMac">Setup OpenVPN connection on Mac</div><div class="arconix-faq-content faq-closed"><p>1. Download a suitable Mac OpenVPN installer: <a href="https://intranet.eecs.qmul.ac.uk/openvpn-clients/" target="_blank">Staff/PhD</a> (or) <a href="http://services.eecs.qmul.ac.uk/systems/certifydownloads" target="_blank">Students</a><br/>
+[<strong>Important note for Staff/PhD:</strong> You’ll have to be on eduroam to download the installers, meaning you’ll have to download them when you are in campus]
+2. When download is complete, double click on the .dmg VPN installer<br/>
+3. Launch the Tunnelblick app, i.e., double click on the Tunnelblick icon<br/>
+[Optional Note: For some users, there might be an issue trying to install Tunnelblick from certain locations. If this is the case, you’d be presented with a prompt that will, by default, move the setup to a more suitable location – you’d only have to enter your admin password to complete this action. If you then try to Install and Launch Tunnelblick, following steps 4 and 5 below, it should all work properly]
+4. In the following prompt, click ‘Open’<br/>
+5. In the following ‘Installation Succeeded’ prompt, click ‘Launch’<br/>
+6. Depending upon your personal preference, choose one of the two options in the subsequent prompt about ‘New Features’<br/>
+7. Again, in the following prompt, depending upon your personal perference, choose whether or not you’d like Tunnelblick to check for updates automatically<br/>
+8. Navigate to the Tunnelblick icon on the Menu bar and click on it. Depending upon whether you are a Staff/PhD [or] Student [or] GP, you’ll have different options for OpenVPN profiles. E.g., Staff/PhD might have ‘Connect eecs-staff’ and ‘Connect eecs-staff-full’. Click on <strong>‘Connect eecs-staff’. </strong>[Note for Staff/PhD: Use eecs-staff-full only if you are interested in using Central College Services]
+9. Enter your EECS username and password in the following prompt<br/>
+10.  Once authentication succeeds, a notification will appear and you’ll be able to acces relevant College and e-learning resources via Tunnelblick</p>
+</div></div>
+</div><!-- .entry-content -->
+</article><!-- #post-## -->
+</div>
